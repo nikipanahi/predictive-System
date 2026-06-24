@@ -1,0 +1,60 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        @page {
+            size: A4;
+            margin: 0;
+            @frame background {
+                -pdf-frame-content: background_image;
+                top: 0; left: 0; width: 210mm; height: 297mm;
+            }
+            @frame content {
+                top: 0; left: 0; width: 210mm; height: 297mm;
+            }
+        }
+        body { font-family: Helvetica, Arial; margin: 0; padding: 0; }
+        
+        /* این کلاس باعث می‌شود هر فیلد یک لایه کاملاً مستقل باشد */
+        .field-container {
+            position: absolute;
+            display: block;
+            width: 210mm;
+        }
+
+        .data {
+            color: red;
+            font-weight: bold;
+            font-size: 11pt;
+        }
+    </style>
+</head>
+<body>
+    <div id="background_image">
+        <img src="/home/aryatamo/site/static/1-TAMO-20(RI)-Draft.png" style="width: 210mm; height: 297mm;">
+    </div>
+
+    <div class="field-container" style="margin-top: 50mm; margin-left: 165mm;">
+        <span class="data">{{ part.work_order_no }}</span>
+    </div>
+
+    <div class="field-container" style="margin-top: 61mm; margin-left: 22mm;">
+        <span class="data">{{ part.part_info.description }}</span>
+    </div>
+
+    <div class="field-container" style="margin-top: 70mm; margin-left: 22mm;">
+        <span class="data">{{ part.part_info.part_number }}</span>
+    </div>
+
+    <div class="field-container" style="margin-top: 70mm; margin-left: 115mm;">
+        <span class="data">{{ part.serial_number }}</span>
+    </div>
+
+    <div class="field-container" style="margin-top: 225mm; margin-left: 145mm;">
+        <span class="data">{{ part.inspection_date|date:"Y-m-d" }}</span>
+    </div>
+
+</body>
+</html>

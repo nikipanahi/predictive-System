@@ -1,0 +1,182 @@
+{% extends "base.html" %}
+
+{% block content %}
+<style>
+    /* استایل برای شبیه‌سازی کاغذ A4 و ظاهر فرم فنی */
+    .tamo-form-container {
+        background-color: white;
+        width: 210mm; /* عرض استاندارد A4 */
+        min-height: 297mm;
+        padding: 20mm;
+        margin: auto;
+        border: 1px solid #ccc;
+        font-family: Arial, sans-serif;
+        font-size: 12px;
+        color: black;
+    }
+
+    .tamo-header {
+        border: 2px solid black;
+        margin-bottom: 10px;
+        display: flex;
+        align-items: center;
+    }
+
+    .header-logo {
+        border-right: 2px solid black;
+        padding: 10px;
+        width: 20%;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .header-title {
+        width: 60%;
+        text-align: center;
+        font-size: 16px;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+
+    .header-doc-no {
+        border-left: 2px solid black;
+        width: 20%;
+        padding: 5px;
+        text-align: center;
+    }
+
+    .info-table, .inspection-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: 15px;
+    }
+
+    .info-table td, .inspection-table th, .inspection-table td {
+        border: 1px solid black;
+        padding: 5px;
+        vertical-align: middle;
+    }
+
+    .bg-grey { background-color: #f0f0f0; font-weight: bold; }
+
+    .check-cell { text-align: center; width: 80px; }
+
+    /* مخفی کردن دکمه ذخیره هنگام چاپ */
+    @media print {
+        .btn-save, .navbar { display: none !important; }
+        .tamo-form-container { border: none; padding: 0; margin: 0; }
+        body { background-color: white; }
+    }
+</style>
+
+<div class="tamo-form-container">
+    <form method="post">
+        {% csrf_token %}
+
+        <div class="tamo-header">
+            <div class="header-logo">LOGO</div>
+            <div class="header-title">Incoming Inspection Report<br>(TAMO-20)</div>
+            <div class="header-doc-no">Form No:<br>TAMO-20</div>
+        </div>
+
+        <table class="info-table">
+            <tr>
+                <td class="bg-grey" width="20%">Customer:</td>
+                <td width="30%">{{ form.customer }}</td>
+                <td class="bg-grey" width="20%">W/O No:</td>
+                <td width="30%">{{ form.work_order_no }}</td>
+            </tr>
+            <tr>
+                <td class="bg-grey">Part Number:</td>
+                <td>
+                    <input type="text" name="part_number_manual" id="id_part_number_manual"
+                    class="form-control" list="pn_list" required
+                    style="border: none; width: 100%;" placeholder="Type P/N...">
+                    <datalist id="pn_list">
+                        {% for pn in all_pns %}
+                            <option value="{{ pn }}">
+                        {% endfor %}
+                    </datalist>
+                </td>
+                <td class="bg-grey">Serial Number:</td>
+                <td>{{ form.serial_number }}</td>
+            </tr>
+            <tr>
+                <td class="bg-grey">Invoice/RO No:</td>
+                <td>{{ form.invoice_ro_number }}</td>
+                <td class="bg-grey">Quantity:</td>
+                <td>{{ form.qty }}</td>
+            </tr>
+        </table>
+
+        <table class="inspection-table">
+            <thead class="bg-grey">
+                <tr>
+                    <th width="5%">No.</th>
+                    <th width="75%">Inspection Item</th>
+                    <th width="20%">Satisfied (Yes/No)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>Are the part number and serial number of the item(s) as per document?</td>
+                    <td class="check-cell">{{ form.item_1_satisfied }}</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>Is the preservation/packaging of the item(s) intact?</td>
+                    <td class="check-cell">{{ form.item_2_satisfied }}</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Is the item(s) free of any physical damage?</td>
+                    <td class="check-cell">{{ form.item_3_satisfied }}</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>Are all standard documents (EASA/FAA Form One, etc.) present?</td>
+                    <td class="check-cell">{{ form.item_4_satisfied }}</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>Is the warranty seal intact (if applicable)?</td>
+                    <td class="check-cell">{{ form.warranty_seal_intact }}</td>
+                </tr>
+                </tbody>
+        </table>
+
+        <div style="border: 1px solid black; padding: 10px; margin-top: 10px;">
+            <strong>Final Decision:</strong>
+            <div style="display: flex; gap: 20px; margin-top: 5px;">
+                {% for radio in form.final_decision %}
+                    <span>{{ radio }}</span>
+                {% endfor %}
+            </div>
+            <div style="margin-top: 10px;">
+                <strong>Reason (if Rejected):</strong><br>
+                {{ form.reason }}
+            </div>
+        </div>
+
+        <div style="margin-top: 20px; display: flex; justify-content: space-between;">
+            <div>Inspected By: {{ form.inspected_by_name }}</div>
+            <div>Date: {{ form.inspection_date }}</div>
+        </div>
+
+        <button type="submit" class="btn btn-success btn-save mt-4 w-100">Save and Confirm Record</button>
+        <button type="button" onclick="window.print();" class="btn btn-primary btn-save mt-4">Print Form</button>
+    </form>
+</div>
+// اسکریپت ساده برای پر کردن خودکار شرح قطعه
+document.getElementById('id_part_number').addEventListener('change', function() {
+    let partNo = this.value;
+    fetch(`/get-part-details/?part_number=${partNo}`)
+        .then(response => response.json())
+        .then(data => {
+            if (data.description) {
+                document.getElementById('id_description').value = data.description;
+            }
+        });
+});
+{% endblock %}

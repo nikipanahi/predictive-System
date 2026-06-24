@@ -1,0 +1,59 @@
+<div dir="rtl" style="font-family: Tahoma; padding: 20px;">
+    <h2>Personal Panel: {{ user.username }}</h2>
+    <p>List of Incoming Parts:</p>
+
+    <table border="1" style="width:100%; text-align:center; border-collapse: collapse;">
+        <thead>
+            <tr style="background-color: #f2f2f2;">
+                <th>Work order No.</th>
+                <th>P/N</th>
+                <th>Status</th>
+                <th>Report PDF</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for part in parts %}
+            <tr>
+                <td>
+                    <a href="{% url 'part_detail' part.id %}" style="font-weight: bold; color: blue;">
+                        {{ part.work_order_no }}
+                    </a>
+                </td>
+
+                <td>{{ part.part_info.part_number }}</td>
+
+                <td>
+                    <span style="padding: 5px; border-radius: 4px; background: #e0f7fa;">
+                        {{ part.get_status_display }}
+                    </span>
+                </td>
+
+                <td>
+                    <a href="{% url 'generate_pdf' part.id %}" target="_blank">Download TAMO-20</a>
+                </td>
+
+                <td>
+                    <a href="{% url 'edit_part' part.id %}" style="background-color: #ffa500; color: white; padding: 5px 10px; text-decoration: none; border-radius: 4px;">
+                        Edit / Add Note
+                    </a>
+                </td>
+            </tr>
+            {% empty %}
+            <tr>
+                <td colspan="5">There is not Parts in Your Panel</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    <br>
+    <div style="display: flex; gap: 10px;">
+        <a href="{% url 'add_part' %}" style="background: #4CAF50; color: white; padding: 10px; text-decoration: none; border-radius: 5px;">+ Record New Part</a>
+
+        <form action="{% url 'logout' %}" method="post">
+            {% csrf_token %}
+            <button type="submit" style="background: #f44336; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">Exit</button>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,19 @@
+<div dir="ltr" style="font-family: Tahoma; width: 300px; margin: 100px auto; border: 1px solid #ccc; padding: 20px; border-radius: 10px;">
+    <h2> Login to TAMO MRO System </h2>
+    <form method="post">
+        {% csrf_token %}
+        <div>
+            <label>Username :</label><br>
+            {{ form.username }}
+        </div>
+        <br>
+        <div>
+            <label>Password :</label><br>
+            {{ form.password }}
+        </div>
+        <br>
+        <button type="submit" style="width: 100%; padding: 10px; background-color: #76cee7; color: white; border: none; cursor: pointer;">
+            Login
+        </button>
+    </form>
+</div>
