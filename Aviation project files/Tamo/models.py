@@ -6,12 +6,9 @@ from django.core.files import File
 from django.db import models
 from django.utils import timezone
 from django.contrib.auth.models import User
-
-# توابع کمکی برای مسیر فایل‌ها
 def get_pdf_filename(instance, filename):
     ext = filename.split('.')[-1]
     return os.path.join('parts_pdf/', f"{instance.part_info.part_number}_{instance.serial_number}.{ext}")
-
 def get_file_path(instance, filename):
     ext = filename.split('.')[-1]
     filename = "%s.%s" % (uuid.uuid4(), ext)
@@ -58,15 +55,12 @@ class PartIn(models.Model):
     rejection_date = models.DateTimeField(null=True, blank=True)
 
     def save(self, *args, **kwargs):
-        # ۱. مدیریت زمان تکمیل تعمیر
         if self.status == 'completed' and not self.repair_completed_at:
             self.repair_completed_at = timezone.now()
         
-        # ۲. مدیریت تاریخ تحویل
         if self.is_delivered and not self.delivery_date:
             self.delivery_date = timezone.now().date()
 
-        # ۳. بهینه‌سازی QR Code (جلوگیری از تولید مجدد)
         if not self.qr_code:
             old_record = PartIn.objects.filter(
                 part_info=self.part_info, 
