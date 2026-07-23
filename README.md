@@ -6,7 +6,7 @@ This repository contains a specialized Text-Mining and Machine Learning model th
 
 ## 📊 Project Output
 Here is the generated decision tree from the actual dataset:
-!(dashboard.png)
+dashboard.png
 
 ## 🛠️ Tech Stack
 - Python 3.x
