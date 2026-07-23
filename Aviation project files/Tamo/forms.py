@@ -2,9 +2,8 @@ from django import forms
 from .models import PartIn, PartMaster
 
 class Tamo20Form(forms.ModelForm):
-    DECISION_CHOICES_satisfied = forms.BooleanField(required=False) # اضافه کردن این
-    final_decision_satisfied = forms.BooleanField(required=False) # اضافه کردن این ببخش
-    # تعریف انتخاب‌های دکمه رادیویی برای تصمیم نهایی
+    DECISION_CHOICES_satisfied = forms.BooleanField(required=False)
+    final_decision_satisfied = forms.BooleanField(required=False) 
     DECISION_CHOICES = [
         ('Accept', 'Accept'),
         ('Reject', 'Reject'),
@@ -23,7 +22,6 @@ class Tamo20Form(forms.ModelForm):
 
     class Meta:
         model = PartIn
-        # لیست دقیق فیلدهایی که در آخرین نسخه models.py ساختیم
         fields = [
             'category_filter',
             'part_info',
@@ -39,10 +37,7 @@ class Tamo20Form(forms.ModelForm):
         ]
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        # غیر اجباری کردن فیلد ورک‌اوردر در فرم
         self.fields['work_order_no'].required = False
-
-        # استایل‌دهی برای شبیه شدن به فرم PDF (استفاده از کلاس‌های Bootstrap)
         widgets = {
             'part_info': forms.Select(attrs={'class': 'form-control'}),
             'work_order_no': forms.TextInput(attrs={'class': 'form-control', 'placeholder': 'W/O No.'}),
@@ -57,7 +52,6 @@ class Tamo20Form(forms.ModelForm):
         }
     def __init__(self, *args, **kwargs):
         super(Tamo20Form, self).__init__(*args, **kwargs)
-        # اضافه کردن کلاس چک‌باکس به فیلدهای Satisfied
         for i in range(1, 8):
             field_name = f'item_{i}_satisfied'
             if field_name in self.fields:
