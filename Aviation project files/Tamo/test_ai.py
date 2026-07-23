@@ -1,5 +1,5 @@
 import requests
-API_TOKEN = "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" 
+API_TOKEN = os.getenv("HF_API_TOKEN", "YOUR_HUGGINGFACE_TOKEN")
 API_URL = "https://api-inference.huggingface.co/models/microsoft/layoutlm-base-uncased"
 headers = {"Authorization": f"Bearer {API_TOKEN}"}
 
