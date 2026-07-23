@@ -2,25 +2,11 @@ from django.urls import path, include
 from . import views
 from django.contrib import admin
 urlpatterns = [
-    # صفحه اصلی
     path('', views.inventory_list, name='inventory_list'),
-
-    # ثبت قطعه جدید
     path('inspection/add/', views.add_part, name='add_part'),
-
-    # حذف قطعه
     path('delete/<int:pk>/', views.delete_part, name='delete_part'),
-
-    # آدرس تاریخچه
     path('part/<int:pk>/history/', views.part_history, name='part_history'),
-
-    # ویرایش وضعیت (دکمه Edit)
     path('part/<int:pk>/edit/', views.edit_part, name='edit_part'),
-
-    # خروجی PDF
-    path('part/<int:pk>/pdf/', views.generate_tamo20_pdf, name='generate_tamo20_pdf'),
-
-    # متدهای کمکی و API
     path('get-part-details/', views.get_part_details, name='get_part_details'),
     path('dashboard/', views.admin_dashboard, name='admin_dashboard'),
     path('export/excel/', views.export_inventory_excel, name='export_inventory_excel'),
