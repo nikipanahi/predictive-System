@@ -5,7 +5,7 @@ predictive System using ML
 This repository contains a specialized Text-Mining and Machine Learning model that analyzes real-world aviation maintenance logs to predict and classify structural actions on official vs. non-official aircraft parts.
 
 ## 📊 Project Output
-Here is the generated decision tree from the actual dataset:
+Here is the operational dashboard of the Django-based MRO platform:
 ![MRO Platform Dashboard](dashboard.png)
 
 ## 🛠️ Tech Stack
