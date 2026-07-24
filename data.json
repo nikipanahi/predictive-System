@@ -1,0 +1,1589 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "work_order_no": "2602-14-31",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Conducted standard bench check on 903-1341. All clearances adjusted according to manual. Passed final test.",
+      "actual_label": "Calibration, Inspection & Testing"
+    },
+    {
+      "work_order_no": "2602-14-32",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Periodic inspection performed. Cleaned micro-switch contacts with switch cleaner. Calibrated the toggle mechanism.",
+      "actual_label": "Calibration, Inspection & Testing"
+    },
+    {
+      "work_order_no": "2602-14-33",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "بررسی لیمیت سوئیچ و انجام فرآیند کالیبراسیون برای اطمینان از عملکرد صحیح در تست‌های نهایی.",
+      "actual_label": "Calibration, Inspection & Testing"
+    },
+    {
+      "work_order_no": "2602-14-34",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Urgent demand on the line. Cannibalized microswitch assy from aircraft tail section. Checked continuity before reuse.",
+      "actual_label": "Cannibalization & Parts Harvesting"
+    },
+    {
+      "work_order_no": "2602-14-35",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Harvested switch assembly 903-1341 from donor unit SN-998 due to zero stock levels in main warehouse.",
+      "actual_label": "Cannibalization & Parts Harvesting"
+    },
+    {
+      "work_order_no": "2602-14-36",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "عملیات قطعه‌برداری از روی تجهیز اسقاطی برای استفاده اضطراری در سیستم آویونیک بالگرد.",
+      "actual_label": "Cannibalization & Parts Harvesting"
+    },
+    {
+      "work_order_no": "2602-14-37",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Found loose wiring on the microswitch lever. Resoldered terminal 2 and applied heat shrink sleeve.",
+      "actual_label": "General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "2602-14-38",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Micro switch lever binding slightly. Cleaned mechanical pivots and fixed housing alignment.",
+      "actual_label": "General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "2602-14-39",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "ترمیم سیم‌کشی داخلی و لحیم‌کاری مجدد پین‌های سوئیچ به دلیل اتصالی مداوم مداری.",
+      "actual_label": "General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "2602-14-40",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Engineering order EO-2026-903 executed. Modified the mounting brackets to reduce microswitch vibration levels.",
+      "actual_label": "Other Custom Technical Actions"
+    },
+    {
+      "work_order_no": "2602-14-41",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Unit sent to materials lab for destructive testing and metallurgical analysis of the microswitch spring.",
+      "actual_label": "Other Custom Technical Actions"
+    },
+    {
+      "work_order_no": "2602-14-42",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "ثبت گزارش فنی و ارجاع به بخش مهندسی به دلیل ترک خوردگی غیرعادی بدنه پلاستیکی سوئیچ.",
+      "actual_label": "Other Custom Technical Actions"
+    },
+    {
+      "work_order_no": "2602-14-43",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Microswitch micro-contacts completely eroded. Removed failed unit and replaced with a brand new assembly.",
+      "actual_label": "Unit Replacement & Component Overhaul"
+    },
+    {
+      "work_order_no": "2602-14-44",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Complete overhaul of the assembly. Replaced internal springs and microswitch core from modification kit.",
+      "actual_label": "Unit Replacement & Component Overhaul"
+    },
+    {
+      "work_order_no": "2602-14-45",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "تعویض کامل مجموعه میکروسوئیچ آسیب دیده به علت دفرمه شدن اهرم فلزی و عدم امکان تعمیر شب بورد.",
+      "actual_label": "Unit Replacement & Component Overhaul"
+    },
+    {
+      "work_order_no": "2405-01-08",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "Cable and Wires Disconnected. PTT Switch Intermittent. PTT Switch Repaired. Reconnected Wires. All Connections Fixed and Checked.",
+      "actual_label":"General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "2405-01-09",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "PTT Switch Intermittent. PTT Switch Repaired. Cable and Wires Disconnected. Reconnected Wires. Mic and Receiver Checked. Microphone Checked.",
+      "actual_label":"General Shop-Floor Repair"
+    },
+    
+    {
+      "work_order_no": "2410-01-04",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "Removed Intermittency from Unit. Checked All Connections and Cleaned All of Them. Found Ok.",
+      "actual_label":"Calibration, Inspection & Testing"
+    },
+    {
+      "work_order_no": "2410-01-06",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "Checked All Connections and Cleaned All of Them. Found Ok.",
+      "actual_label":"Calibration, Inspection & Testing"
+
+    },
+    {
+      "work_order_no": "2410-01-07",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "Removed Intermittency from Unit. Checked All Connections and Cleaned All of Them. Found Ok.",
+      "actual_label":"Calibration, Inspection & Testing"
+
+    },
+    {
+      "work_order_no": "2410-01-08",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "Removed inttermitency from unit. checked all connections and cleaned all of them. found ok.",
+      "actual_label":"General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "2410-01-09",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "Resoldered Amp. Circuit. Checked All Connections and Cleaned All of Them. Found Ok.",
+      "actual_label":"General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "2501-22-04",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "Switch contact cleaned. Checked wiring and amplifier.",
+      "actual_label":"Calibration, Inspection & Testing"
+    },
+    {
+      "work_order_no": "2509-01-02",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "Wire is disconnected. Reconnected wires. Repair procedure done. Unit tested found ok. Cleaning done.",
+      "actual_label":"General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "2512-04-N03",
+      "part_info": "4019700-903 - non-Official",
+      "pdf_file": null,
+      "actions_done": "Responsibility transferred to: d-aria\nmm\nInventory Verification: Item found in shop via internal QR scanner.\nInventory Verification: Item found in shop via internal QR scanner.\nInventory Verification: Item found in shop via internal QR scanner.\nVerified via QR Scan.\nVerified via QR Scan.\nVerified via QR Scan.\nVerified via QR Scan.\nVerified via QR Scan."
+    },
+    {
+      "work_order_no": "2512-04-N01",
+      "part_info": "4019700-903 - non-Official",
+      "pdf_file": null,
+      "actions_done": "Status changed from [Not Started] to [Waiting]\nResponsibility transferred to: d-aria"
+    },
+    {
+      "work_order_no": "2510-04-N02",
+      "part_info": "4019700-903 - non-Official",
+      "pdf_file": null,
+      "actions_done": "Status changed from [Waiting] to [In Progress]\nResponsibility transferred to: d-aria\nNote: Need a Module by P/N: 4017413-901.\r\nWaiting for Making the Module.\nNote: Moudle and Mechanical Part Cannibalized by S/N: 86101023 and Delivered to Customer for Testing.\nStatus changed from [In Progress] to [Delivered]"
+    },
+    {
+      "work_order_no": "2510-22-N04",
+      "part_info": "4061100-901 - non-Official",
+      "pdf_file": null,
+      "actions_done": "Verified via QR Scan by n-panahi"
+    },
+    {
+      "work_order_no": "2509-01-N06",
+      "part_info": "65-52801-64 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2509-01-N07",
+      "part_info": "65-52801-67 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2510-22-N02",
+      "part_info": "735SUE10-12 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2510-22-N01",
+      "part_info": "755SUE2-4 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2502-01-N06",
+      "part_info": "755SUE2-4 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2512-01-N02",
+      "part_info": "755SUE2-4 - non-Official",
+      "pdf_file": null,
+      "actions_done": "Status changed from [Not Started] to [Not Started]\nInventory Verification: Item found in shop via internal QR scanner."
+    },
+    {
+      "work_order_no": "2206-04-N07",
+      "part_info": "03980-10-04 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2509-22-N08",
+      "part_info": "2012-1 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2509-22-N09",
+      "part_info": "C-07202-2 - non-Official",
+      "pdf_file": null,
+      "actions_done": "Unit Cleaned and Adjusted. Tested Found Ok."
+    },
+    {
+      "work_order_no": "2511-02-N06",
+      "part_info": "391041-05007 - non-Official",
+      "pdf_file": null,
+      "actions_done": "Adjusted with Fuel"
+    },
+    {
+      "work_order_no": "2511-02-N03",
+      "part_info": "EAADL8529-403 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2508-01-N04",
+      "part_info": "4215-01 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2504-01-N04",
+      "part_info": "4215-01 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2508-01-N06",
+      "part_info": "4215-01 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2511-02-N04",
+      "part_info": "622-8047-541 - non-Official",
+      "pdf_file": null,
+      "actions_done": "Taken for Repair to Mr. Aali on 30/Dec/2025(1404/10/09).\nTaken Back from Repair on 06/Jan/2026 (1404/10/16)."
+    },
+    {
+      "work_order_no": "2509-04-N08",
+      "part_info": "1051T100-13 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2509-22-N07",
+      "part_info": "622-8001-352 - non-Official",
+      "pdf_file": null,
+      "actions_done": "Wrong Faulty on US tag (TRFC written)\r\n7 Lamp by pn 6839 replaced by new ones. \r\nReset SW repaired. TFC repaired\r\nDone by Mr. Pakkhesal "
+    },
+    {
+      "work_order_no": "2509-22-N01",
+      "part_info": "622-8001-352 - non-Official",
+      "pdf_file": null,
+      "actions_done": "ADI DH REF LCD not Shown Digit Correctly. 7 Lights Burnt Out. Fixed ADI DH REF LCD to It's Place Correctly, Replaced 7 Lights, Tested Items Found Ok.\nnn\nnn\nnn"
+    },
+    {
+      "work_order_no": "2501-22-N04",
+      "part_info": "1152682-1 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2509-22-N06",
+      "part_info": "P2-07-0003-001 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2512-22-N01",
+      "part_info": "P4-01-0021 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2509-04-N05",
+      "part_info": "4034234-902 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2511-01-N02",
+      "part_info": "D434-36-001 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2501-22-N02",
+      "part_info": "10037-1000-0154 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2510-22-N03",
+      "part_info": "10037-1000-0154 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2511-01-N01",
+      "part_info": "2300-01-1 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2512-01-N01",
+      "part_info": "2101-01-2 - non-Official",
+      "pdf_file": null,
+      "actions_done": "Responsibility transferred to: d-aria"
+    },
+    {
+      "work_order_no": "2305-01-N11",
+      "part_info": "2300-01-1 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2504-01-N03",
+      "part_info": "2300-01-1 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2407-01-N04",
+      "part_info": "2300-01-1 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2411-01-N08",
+      "part_info": "2300-01-1 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2305-01-N12",
+      "part_info": "2307-04-1 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2411-01-N07",
+      "part_info": "2307-04-1 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2412-11-N03",
+      "part_info": "17960-0102-0013 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2310-11-N01",
+      "part_info": "17960-0103-0013 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2504-11-N02",
+      "part_info": "17960-0102-0013 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2504-24-N02",
+      "part_info": "011-00280-10 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2412-03-N04",
+      "part_info": "686-1000-002 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2412-03-N06",
+      "part_info": "686-1000-002 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2412-03-N03",
+      "part_info": "686-1000-002 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2412-03-N07",
+      "part_info": "686-1000-002 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2412-03-N10",
+      "part_info": "686-1000-002 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2412-03-N05",
+      "part_info": "686-1000-002 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2412-03-N09",
+      "part_info": "686-1000-002 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2412-03-N12",
+      "part_info": "686-1000-002 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2412-03-N08",
+      "part_info": "686-1000-002 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2412-03-N11",
+      "part_info": "686-1000-002 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2412-03-N02",
+      "part_info": "44509 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2412-03-N01",
+      "part_info": "10-700335-1 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2501-03-N01",
+      "part_info": "10-700335-1 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2509-04-N06",
+      "part_info": "522270 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2509-04-N07",
+      "part_info": "522270 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2509-04-N01",
+      "part_info": "SRL-92G - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2509-04-N02",
+      "part_info": "SRL-92G - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2411-18-N03",
+      "part_info": "9043185-13 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2511-03-N01",
+      "part_info": "30-2660-3 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2511-01-N03",
+      "part_info": "4051601-935 - non-Official",
+      "pdf_file": null,
+      "actions_done": "Technical Note: Display Course is Faulty.\nStatus changed from [Not Started] to [In Progress]"
+    },
+    {
+      "work_order_no": "2512-01-N03",
+      "part_info": "4051601-938 - non-Official",
+      "pdf_file": null,
+      "actions_done": "Technical Note: Display Course is Ok. Faulty is from Wiring\nVerified via QR Scan."
+    },
+    {
+      "work_order_no": "2505-01-N01",
+      "part_info": "4051601-937 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2409-01-N03",
+      "part_info": "WL201EED2 - non-Official",
+      "pdf_file": null,
+      "actions_done": "Waiting for CMM"
+    },
+    {
+      "work_order_no": "2504-01-N06",
+      "part_info": "WL201EED2 - non-Official",
+      "pdf_file": null,
+      "actions_done": "Waiting for CMM"
+    },
+    {
+      "work_order_no": "2511-01-N04",
+      "part_info": "10031-0000-01 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2512-22-N02",
+      "part_info": "72068050 - non-Official",
+      "pdf_file": null,
+      "actions_done": "Board Resoldered and Repaired. Relay and Elements Checked. Unit Found Ok. Done by Mr. Kashani\nStock Verified via Scan by n-panahi\nStock Verified via Scan by n-panahi\nVerified via QR Scan by n-panahi\nBoard Resoldered and Repaired. Relay and Elements Checked. Unit Found Ok. Done by Mr. Kashani"
+    },
+    {
+      "work_order_no": "2509-04-N04",
+      "part_info": "4100310-6 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2502-22-N03",
+      "part_info": "P4-01-0033-210 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2508-22-N09",
+      "part_info": "97564 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2508-22-N06",
+      "part_info": "97564 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2508-22-N08",
+      "part_info": "97564 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2508-22-N10",
+      "part_info": "97564 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2508-22-N05",
+      "part_info": "97564 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2508-22-N11",
+      "part_info": "97564 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2508-22-N07",
+      "part_info": "97564 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2508-22-N04",
+      "part_info": "97564 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2502-01-N03",
+      "part_info": "622-3890-021 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2109-01-N01",
+      "part_info": "107484-6 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2502-01-N14",
+      "part_info": "A3295-1 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2502-01-N10",
+      "part_info": "A3295-1 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2512-22-N04",
+      "part_info": "400220-2 - non-Official",
+      "pdf_file": null,
+      "actions_done": "Status changed from [Not Started] to [Not Started]\nInventory Verification: Item found in shop via internal QR scanner."
+    },
+    {
+      "work_order_no": "2404-21-01",
+      "part_info": "GE16720-010-6 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2202-14-N01",
+      "part_info": "702536-F - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2512-22-N05",
+      "part_info": "C2006 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2512-22-N06",
+      "part_info": "940-0351-010 - non-Official",
+      "pdf_file": null,
+      "actions_done": "Status changed from [Not Started] to [Not Started]\nVerified via QR Scan.\nUnit Taken to Shop Wrongly and It's S/V."
+    },
+    {
+      "work_order_no": "2510-02-N01",
+      "part_info": "0851CM-2 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2511-02-N07",
+      "part_info": "391046-482 - non-Official",
+      "pdf_file": null,
+      "actions_done": "Status changed from [Not Started] to [Not Started]\nResponsibility transferred to: d-aria\nAdjusted with Fuel"
+    },
+    {
+      "work_order_no": "2511-02-N08",
+      "part_info": "391046-05137 - non-Official",
+      "pdf_file": null,
+      "actions_done": "Status changed from [Not Started] to [Completed]\nResponsibility transferred to: d-aria\nTechnical Note: Adjusted with Fuel"
+    },
+    {
+      "work_order_no": "2511-02-N05",
+      "part_info": "391046-05136 - non-Official",
+      "pdf_file": null,
+      "actions_done": "Adjusted with Fuel"
+    },
+    {
+      "work_order_no": "2508-01-N13",
+      "part_info": "G7400-23 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2504-24-N01",
+      "part_info": "069-01032-0201 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2412-01-N01",
+      "part_info": "G7505-01 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2509-04-N03",
+      "part_info": "4034240-906 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2511-02-N01",
+      "part_info": "6004275-2 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2511-02-N02",
+      "part_info": "6004275-2 - non-Official",
+      "pdf_file": null,
+      "actions_done": "Taken with Mr. Pakkhesal for Repair"
+    },
+    {
+      "work_order_no": "2508-18-N01",
+      "part_info": "2313M-194-3 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2512-22-N03",
+      "part_info": "69-37324-78 - non-Official",
+      "pdf_file": null,
+      "actions_done": "Verified via QR Scan by n-panahi"
+    },
+    {
+      "work_order_no": "2110-15-N01",
+      "part_info": "2083-11-1 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2510-02-N02",
+      "part_info": "2083-11-1 - non-Official",
+      "pdf_file": null,
+      "actions_done": "Taken for Repair to Mr. Aali on 30/Dec/2025(1404/10/09).\nTaken Back from Repair on 06/Jan/2026 (1404/10/16)."
+    },
+    {
+      "work_order_no": "2502-22-N06",
+      "part_info": "2083-11-1 - non-Official",
+      "pdf_file": null,
+      "actions_done": "Responsibility transferred to: d-aria"
+    },
+    {
+      "work_order_no": "2509-22-N02",
+      "part_info": "2083-11-1 - non-Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2508-22-N03",
+      "part_info": "2083-11-1 - non-Official",
+      "pdf_file": null,
+      "actions_done": "Status changed from [Not Started] to [Waiting]\nResponsibility transferred to: d-aria"
+    },
+    {
+      "work_order_no": "2602-22-01",
+      "part_info": "P4-01-0021 - non-Official",
+      "pdf_file": null,
+      "actions_done": "Unit Charged and Tested, Found Ok.\nStock Verified via Scan by n-panahi"
+    },
+    {
+      "work_order_no": "2404-01-01-01",
+      "part_info": "45-0083-7 - Official",
+      "pdf_file": "/media/parts_pdfs/946d1832-1746-44fd-a548-c91737e88d6b.pdf",
+      "actions_done": "Microswitches Adjusted. Electrical Motor Repaired."
+    },
+    {
+      "work_order_no": "2404-09-01-02",
+      "part_info": "473597-5 - Official",
+      "pdf_file": "/media/parts_pdfs/28985486-b857-4453-888a-26dd202eb9be.pdf",
+      "actions_done": "Board cannibalized with work order no.: 2404-10-01."
+    },
+    {
+      "work_order_no": "2404-01-02-01",
+      "part_info": "45-0083-7 - Official",
+      "pdf_file": null,
+      "actions_done": "Diode by part number CER71F is checked.Electrical Motor and gearbox is repaired."
+    },
+    {
+      "work_order_no": "2404-01-01-02",
+      "part_info": "45-0083-7 - Official",
+      "pdf_file": "/media/parts_pdfs/a90681c6-542c-49ff-97a5-5672c4f22a3d.pdf",
+      "actions_done": "Unit Adjusted."
+    },
+    {
+      "work_order_no": "2404-03-02",
+      "part_info": "45-0057-1 - Official",
+      "pdf_file": "/media/parts_pdfs/e6ffc5ab-8187-472c-9644-923c9a92abea.pdf",
+      "actions_done": "Electrical Motor Repaired. Limit switches adjusted. Rectifire diode checked.",
+      "actual_label":"General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "2404-01-01-03",
+      "part_info": "45-0083-7 - Official",
+      "pdf_file": null,
+      "actions_done": "Diode(D1) of break on Electrical Motor is cannibalized with serial number: 5867. limit switches are adjusted."
+    },
+    {
+      "work_order_no": "2307-01-01",
+      "part_info": "2061-14-1 - Official",
+      "pdf_file": null,
+      "actions_done": "Unit Repaired. Adjuated."
+    },
+    {
+      "work_order_no": "2404-03-01",
+      "part_info": "45-0057-1 - Official",
+      "pdf_file": null,
+      "actions_done": "Electrical Motor repaired.",
+      "actual_label":"General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "2405-01-01",
+      "part_info": "45-0083-7 - Official",
+      "pdf_file": "/media/parts_pdfs/f8848eac-aaee-4c0a-9ec5-b04296e164dc.pdf",
+      "actions_done": "Brake of Electrical Motor Repaired."
+    },
+    {
+      "work_order_no": "2405-01-03",
+      "part_info": "45-0083-7 - Official",
+      "pdf_file": null,
+      "actions_done": "Transformer and micro switch are cannibalized by serial number: 5867. Electrical motor is repaired."
+    },
+    {
+      "work_order_no": "2110-01-01",
+      "part_info": "5145-1-64 - Official",
+      "pdf_file": null,
+      "actions_done": "NAV1 RX switch is cannibailized by serial number: 261."
+    },
+    {
+      "work_order_no": "2406-01-01",
+      "part_info": "30-0906-104 - Official",
+      "pdf_file": null,
+      "actions_done": "Flash tube lamp tested, thyrisor by part number MCR1906-6 is checked. wiring resoldered."
+    },
+    {
+      "work_order_no": "2407-11-01",
+      "part_info": "63999-000 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2407-20-03",
+      "part_info": "2061-14-1 - Official",
+      "pdf_file": null,
+      "actions_done": "Synchro torque reciever assy by part number 71427-0001 cannibalized with serial number 2951.calibrated and adjusted as CMM ref."
+    },
+    {
+      "work_order_no": "2407-20-01",
+      "part_info": "2061-14-1 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2405-01-04",
+      "part_info": "903-1341 - Official",
+      "pdf_file": null,
+      "actions_done": "All Connections Fixed and Checked. Receiver Checked. No Side Tone Intermittent. PTT Switch Intermittent. PTT Switch Repaired. No Side Tone Repaired."
+    },
+    {
+      "work_order_no": "2405-01-08",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "Cable and Wires Disconnected. PTT Switch Intermittent. PTT Switch Repaired. Reconnected Wires. All Connections Fixed and Checked.",
+      "actual_label":"General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "2405-01-09",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "PTT Switch Intermittent. PTT Switch Repaired. Cable and Wires Disconnected. Reconnected Wires. Mic and Receiver Checked. Microphone Checked.",
+      "actual_label":"General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "2405-01-05",
+      "part_info": "63274-008 - Official",
+      "pdf_file": null,
+      "actions_done": "Cable and Wires Disconnected. PTT Switch Intermittent. PTT Switch Repaired. Reconnected Wires. All Connections Fixed and Checked."
+    },
+    {
+      "work_order_no": "2405-01-07",
+      "part_info": "63274-008 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2405-01-10",
+      "part_info": "63274-008 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2405-01-06",
+      "part_info": "63274-008 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2408-01-02",
+      "part_info": "63274-008 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2404-09-02",
+      "part_info": "473597-5 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2404-01-04",
+      "part_info": "69-37307-138 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2410-01-11",
+      "part_info": "45-0083-7 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2408-01-05",
+      "part_info": "30-0837-5 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2408-01-04",
+      "part_info": "45-0083-7 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2410-01-02",
+      "part_info": "63274-008 - Official",
+      "pdf_file": null,
+      "actions_done": "Reconnected Wires. Checked All Connections and Cleaned All of Them. Found Ok."
+    },
+    {
+      "work_order_no": "2410-01-04",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "Removed Intermittency from Unit. Checked All Connections and Cleaned All of Them. Found Ok.",
+      "actual_label":"Calibration, Inspection & Testing"
+    },
+    {
+      "work_order_no": "2410-01-06",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "Checked All Connections and Cleaned All of Them. Found Ok.",
+      "actual_label":"Calibration, Inspection & Testing"
+
+    },
+    {
+      "work_order_no": "2410-01-07",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "Removed Intermittency from Unit. Checked All Connections and Cleaned All of Them. Found Ok.",
+      "actual_label":"Calibration, Inspection & Testing"
+
+    },
+    {
+      "work_order_no": "2410-01-08",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "Removed inttermitency from unit. checked all connections and cleaned all of them. found ok.",
+      "actual_label":"General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "2410-01-09",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "Resoldered Amp. Circuit. Checked All Connections and Cleaned All of Them. Found Ok.",
+      "actual_label":"General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "2410-01-10",
+      "part_info": "63999-000 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2405-01-02",
+      "part_info": "45-0083-7 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2404-01-05",
+      "part_info": "5145-1-60 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2411-03-01",
+      "part_info": "GE16720-010-2 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2211-01-01",
+      "part_info": "5145-1-64 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2410-01-12",
+      "part_info": "5145-1-61 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2408-01-03",
+      "part_info": "69-37307-145 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2501-22-03",
+      "part_info": "473597-5 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2501-22-04",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "Switch contact cleaned. Checked wiring and amplifier.",
+      "actual_label":"Calibration, Inspection & Testing"
+    },
+    {
+      "work_order_no": "2412-03-01",
+      "part_info": "45-0057-1 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2501-22-02",
+      "part_info": "PU90-461R3 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2412-01-01",
+      "part_info": "69-37307-145 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2502-11-01",
+      "part_info": "45-0057-1 - Official",
+      "pdf_file": null,
+      "actions_done": "Gearbox Repaired. MicroSwitches Adjusted. Lamp Wire Changed by New One. Unit Found Ok. All Repair Procedures Done.",
+      "actual_label":"General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "2503-22-01",
+      "part_info": "69-37307-153 - Official",
+      "pdf_file": null,
+      "actions_done": "Fastene S1 Switch, Repaired APU DET & APU BOTTLE Discharge Switches Changed 4 Panels Lights, Cleaned Tested and Found Ok."
+    },
+    {
+      "work_order_no": "2504-02-01",
+      "part_info": "2061-14-1 - Official",
+      "pdf_file": null,
+      "actions_done": "Assymmetric Adjusted and Checked. Repair Procedure Completely Done as CMM. Unit Tested and Checked. Found Ok."
+    },
+    {
+      "work_order_no": "2504-22-03",
+      "part_info": "45-0083-7 - Official",
+      "pdf_file": null,
+      "actions_done": "Electrical Motor is Replaced by New one. One of the Override Sw is Replaced by New One. Gearbox is Also Changed.  All Repair Procedure Performed As Task No.: 33-40-15-99C-806-A01."
+    },
+    {
+      "work_order_no": "2505-05-01",
+      "part_info": "686-1000-002 - Official",
+      "pdf_file": null,
+      "actions_done": "Realigned Output Sound, Tested Many Times Found Ok."
+    },
+    {
+      "work_order_no": "2505-05-02",
+      "part_info": "686-1000-002 - Official",
+      "pdf_file": null,
+      "actions_done": "Mic Wire Disconnected. Reconnect Mic Connection Wire, Tested Other Components, Tested Unit Found Ok."
+    },
+    {
+      "work_order_no": "2505-01-02",
+      "part_info": "5145-1-64 - Official",
+      "pdf_file": null,
+      "actions_done": "Repaired R/T I/C Switch, Changed ALT/NORM Switch Connenction, Tetsed Many Times. Found Ok."
+    },
+    {
+      "work_order_no": "2505-01-01",
+      "part_info": "5145-1-64 - Official",
+      "pdf_file": null,
+      "actions_done": "Repaired VHF1,VHF2 MIC Switches, ALT/NORM Sw Connections Corrected. Tested Many Times ,Found Ok. Changed VHF1 Mic Sw."
+    },
+    {
+      "work_order_no": "2504-01-01",
+      "part_info": "69-37307-145 - Official",
+      "pdf_file": null,
+      "actions_done": "S4 and L4 Intermittent, APU Bottle Discharge not Lit. Repaired S4 Switch & L4 Light Switch, Found Ok."
+    },
+    {
+      "work_order_no": "2505-22-01",
+      "part_info": "903-1341 - Official",
+      "pdf_file": null,
+      "actions_done": "P.T.T SW Connections Cleaned. Plug Connections Fixed, Resoldered Plug Wires, Cleaned Tested ound Ok."
+    },
+    {
+      "work_order_no": "2504-02-02",
+      "part_info": "473597-5 - Official",
+      "pdf_file": null,
+      "actions_done": "6 resistor, 1 capacitor, 1 diode and 1 microcircuit changed by new one."
+    },
+    {
+      "work_order_no": "2506-02-01",
+      "part_info": "69-72067-1 - Official",
+      "pdf_file": null,
+      "actions_done": "The RHEOSTAT is Fixed and Tested. Unit Found Ok."
+    },
+    {
+      "work_order_no": "2508-22-01",
+      "part_info": "5145-1-60 - Official",
+      "pdf_file": null,
+      "actions_done": "Replaced ALT/NORM SW, Repaired ADF1 Receiver SW, Cleaned Unit, Tested Found Ok."
+    },
+    {
+      "work_order_no": "2507-03-01",
+      "part_info": "GE16720-010-2 - Official",
+      "pdf_file": null,
+      "actions_done": "Board Repaired. FLASHTUBE MODULE ASSEMBLY Replaced by New one & LAMP ASSEMBLY Placed by New one. All Repair Procedures Done by Task No.: 33-40-01-99F-813-A01."
+    },
+    {
+      "work_order_no": "2507-03-02",
+      "part_info": "30-1099-1 - Official",
+      "pdf_file": null,
+      "actions_done": "LIGHT SUBASSEMBLY Replaced by New One. Unit Checked and Found Ok."
+    },
+    {
+      "work_order_no": "2507-03-03",
+      "part_info": "30-1099-1A - Official",
+      "pdf_file": null,
+      "actions_done": "LIGHT SUBASSEMBLY Replaced by New One. Unit Checked and Found Ok."
+    },
+    {
+      "work_order_no": "2508-03-01",
+      "part_info": "GE16720-010-2 - Official",
+      "pdf_file": "/media/parts_pdfs/50df5c70-8322-4725-bcec-e678422de99b.pdf",
+      "actions_done": "Main LAMP ASSEMBLY Replaced by New One (Taken from Customer)."
+    },
+    {
+      "work_order_no": "2505-01-03",
+      "part_info": "45-0083-7 - Official",
+      "pdf_file": null,
+      "actions_done": "Wiring Harness Assembly is Replaced by New One. Switch is Cannibalized by S/N:6061. Unit Tested and Found Ok. All Repair Procedures Done."
+    },
+    {
+      "work_order_no": "2508-01-04",
+      "part_info": "45-0083-7 - Official",
+      "pdf_file": "/media/parts_pdfs/53b2b5cf-1539-48e9-8d7b-88d3b0711fe0.pdf",
+      "actions_done": "Electrical Motor and Transformere Checked. Micro Switches Found Ok."
+    },
+    {
+      "work_order_no": "2510-04-01",
+      "part_info": "686-1000-002 - Official",
+      "pdf_file": null,
+      "actions_done": "Amplifier repaired. wiring checked. unit tested and found ok."
+    },
+    {
+      "work_order_no": "2509-01-01",
+      "part_info": "903-1341 - Official",
+      "pdf_file": null,
+      "actions_done": "Unit Repaired. Wiring fixed. Cleaning done and tested. Found ok"
+    },
+    {
+      "work_order_no": "2509-01-02",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "Wire is disconnected. Reconnected wires. Repair procedure done. Unit tested found ok. Cleaning done.",
+      "actual_label":"General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "2509-01-03",
+      "part_info": "903-1341 - Official",
+      "pdf_file": null,
+      "actions_done": "Unit is noisy. Microphone repaired; tested found ok. Cleaning done."
+    },
+    {
+      "work_order_no": "2509-01-04",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "Wires Fixed and Checked. Unit repaired. tested found ok. Cleaning done.",
+      "actual_label":"General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "2509-01-05",
+      "part_info": "903-1341 - Official",
+      "pdf_file": null,
+      "actions_done": "Intermittency fixed; Checked wires.Unit repaired. Tested and found ok."
+    },
+    {
+      "work_order_no": "2412-01-02",
+      "part_info": "69-37307-145 - Official",
+      "pdf_file": null,
+      "actions_done": "Unit Tested many times, Replaced 9 panel lights, APU Switch Repaired, Cleaned unit. Tested found ok."
+    },
+    {
+      "work_order_no": "2510-04-02",
+      "part_info": "686-1000-002 - Official",
+      "pdf_file": null,
+      "actions_done": "Amplifier and Board repaired and Mirophone checked.(Changed by new one), \r\nForm 1 Delivered on 16Nov2025 to Mr. Azari"
+    },
+    {
+      "work_order_no": "2510-07-01",
+      "part_info": "4191695 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2510-07-02",
+      "part_info": "63333-007 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2508-01-06",
+      "part_info": "2061-14-1 - Official",
+      "pdf_file": null,
+      "actions_done": "DIAL ASSY AND \r\nLIGHTING MODULE Adjusted. Calibration Done. Unit Found Ok."
+    },
+    {
+      "work_order_no": "2512-01-06",
+      "part_info": "63274-008 - Official",
+      "pdf_file": "/media/parts_pdfs/306ea243-459d-4acc-acf2-77780d39f711.pdf",
+      "actions_done": "Intermittency Removed. Wiring Checked. Unit Tested and Found Ok."
+    },
+    {
+      "work_order_no": "2512-01-03",
+      "part_info": "903-1341 - Official",
+      "pdf_file": "/media/parts_pdfs/6cc457df-2570-4723-be3b-39ec7bb3dd1e.pdf",
+      "actions_done": "Amplifier Repaired. Wiring Fixed. Unit Checked and Found Ok"
+    },
+    {
+      "work_order_no": "2512-01-02",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2512-01-01",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "Microphone Repaired. Wiring Checked. Unit Tested and Checked.",
+      "actual_label":"General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "2604-15-02",
+      "part_info": "903-1341 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2509-01-04",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "Wires Fixed and Checked. Unit repaired. tested found ok. Cleaning done.",
+      "actual_label":"General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "2512-01-02",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "no record"
+    },
+    {
+      "work_order_no": "2512-01-01",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "Microphone Repaired. Wiring Checked. Unit Tested and Checked.",
+      "actual_label":"General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "2512-01-01",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "Microphone Repaired. Wiring Checked. Unit Tested and Checked.",
+      "actual_label":"General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "2601-01-01",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "Microphone fixed. . Unit Tested and Checked.",
+      "actual_label":"Calibration, Inspection & Testing"
+    },
+    {
+      "work_order_no": "2601-01-02",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "Microphone Chenged by new one. Unit Tested and Checked.",
+      "actual_label":"Unit Replacement & Component Overhaul"
+    },
+    {
+      "work_order_no": "2601-01-03",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "Amp checked. Unit clean and found ok.",
+      "actual_label":"Calibration, Inspection & Testing"
+    },
+    {
+      "work_order_no": "2601-01-04",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "connections fixed and. board resoldered.",
+      "actual_label":"General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "2601-01-05",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "PTT Switch cannibalized by another serial no. resoldered and found ok.",
+      "actual_label":"Cannibalization & Parts Harvesting"
+    },
+    {
+      "work_order_no": "2601-02-01",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "all of sw checked. found ok.",
+      "actual_label":"Calibration, Inspection & Testing"
+    }
+    ,
+    {
+      "work_order_no": "2601-02-02",
+      "part_info": "903-1342 - Official",
+      "pdf_file": null,
+      "actions_done": "all of sw checked. found ok.",
+      "actual_label":"Calibration, Inspection & Testing"
+    },
+    {
+    "work_order_no": "2602-14-01",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "Microswich wire was broken. Resoldered the connection and fixed the internal housing. Unit tested ok after shop repair.",
+    "actual_label": "General Shop-Floor Repair"
+  },
+  {
+    "work_order_no": "2602-14-02",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "Performed routine bench inspection on 903-1341. Cleaned contacts and adjusted the limit switch clearance. Calibration parameters within limits.",
+    "actual_label": "Calibration, Inspection & Testing"
+  },
+  {
+    "work_order_no": "2602-14-03",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "Old microswitch showed severe contact wear. Changed it with a new one from stock. Overhauled the housing assembly.",
+    "actual_label": "Unit Replacement & Component Overhaul"
+  },
+  {
+    "work_order_no": "2602-14-04",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "Urgent part shortage for main assembly. Cannibalized the microswitch assembly from a scrapped unit. Re-installed and found ok.",
+    "actual_label": "Cannibalization & Parts Harvesting"
+  },
+  {
+    "work_order_no": "2602-14-05",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "Checked the unit due to pilot report. Found loose wire on switch. Reconnected and resoldered. Repaired housing bracket.",
+    "actual_label": "General Shop-Floor Repair"
+  },
+  {
+    "work_order_no": "2602-14-06",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "Slight misalignment in limit swich lever. No physical damage. Adjsted the screw and calibrated to nominal values. Cleaned dust.",
+    "actual_label": "Calibration, Inspection & Testing"
+  },
+  {
+    "work_order_no": "2602-14-07",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "Wireing harness was loose. Fixd the connection and repaird the limit swich. Tested fine on bench.",
+    "actual_label": "General Shop-Floor Repair"
+  },
+  {
+    "work_order_no": "2602-14-08",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "Instpected the assembly. Cleaned all dirty contacts. Adjsted the micro switch position. Calibration ok.",
+    "actual_label": "Calibration, Inspection & Testing"
+  },
+  {
+    "work_order_no": "2602-14-09",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "Unit failed continuity check. Replaced the microswitch mechanism entirely. New component installed and verified.",
+    "actual_label": "Unit Replacement & Component Overhaul"
+  },
+  {
+    "work_order_no": "2602-14-10",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "Inspected part 903-1341. No discrepancies noted. Handed over to quality assurance for final clearance check.",
+    "actual_label": "Calibration, Inspection & Testing"
+  },
+  {
+    "work_order_no": "2602-14-11",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "Cannibalized switch from bench stock, then repaired the mounting plate. Finally adjusted and calibrated for service.",
+    "actual_label": "Cannibalization & Parts Harvesting"
+  },
+  {
+    "work_order_no": "2602-14-12",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "Contacts heavily oxidized. Resoldered internal diode and fixed the switch gating mechanism. Unit found functional.",
+    "actual_label": "General Shop-Floor Repair"
+  },
+  {
+    "work_order_no": "2602-14-13",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "Routine calibration dependency. Re-adjusted tolerances and check electrical continuity. No repair needed.",
+    "actual_label": "Calibration, Inspection & Testing"
+  },
+  {
+    "work_order_no": "2602-14-14",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "Microswitch completely burned out. Executed complete overhaul and change by new one from avionics shop.",
+    "actual_label": "Unit Replacement & Component Overhaul"
+  },
+  {
+    "work_order_no": "2602-14-15",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "Part harvesting performed due to urgent aircraft AOG status. Removed micro-switch 903-1341 for secondary use.",
+    "actual_label": "Cannibalization & Parts Harvesting"
+  },
+  {
+    "work_order_no": "2602-14-16",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "The switch gating mechanism was slightly loose. Fixed the loose bracket, then checked performance on the test bench. Found fully operational.",
+    "actual_label": "General Shop-Floor Repair"
+  },
+  {
+    "work_order_no": "2602-14-17",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "تنظیم لیمیت سوئیچ انجام شد. کالیبراسیون با موفقیت پاس شد. No physical defects found during visual inspection.",
+    "actual_label": "Calibration, Inspection & Testing"
+  },
+  {
+    "work_order_no": "2602-14-18",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "Reconected internal wiring after finding a bad solder joint. Repard the internal contact plate.",
+    "actual_label": "General Shop-Floor Repair"
+  },
+  {
+    "work_order_no": "2602-14-19",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "عملیات قطعه‌برداری روی تجهیز انجام شد. Took the microswitch assembly for aircraft tail gear. Scrapped the rest.",
+    "actual_label": "Cannibalization & Parts Harvesting"
+  },
+  {
+    "work_order_no": "2602-14-20",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "تعویض کامل میکروسوئیچ آسیب‌دیده با نمونه نو از انبار فنی. Unit operational check ok.",
+    "actual_label": "Unit Replacement & Component Overhaul"
+  },
+  {
+    "work_order_no": "2602-14-21",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "Inspected the burned diode. Replaced it with a new one, resoldered connections, and calibrated the microswitch trigger point.",
+    "actual_label": "Unit Replacement & Component Overhaul"
+  },
+  {
+    "work_order_no": "2602-14-22",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "Awaiting engineering disposition due to unusual structural cracks on the microswitch mounting block. Unit isolated.",
+    "actual_label": "Other Custom Technical Actions"
+  },
+  {
+    "work_order_no": "2602-14-23",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "Cleand dirty contact surfaces and adjustd the limit lever gap. Over-travel test was successful.",
+    "actual_label": "Calibration, Inspection & Testing"
+  },
+  {
+    "work_order_no": "2602-14-24",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "903-1341 was reporting intermittent faults. Bench test confirmed unstable signals. Reconnected loose internal pin and resoldered the ground wire.",
+    "actual_label": "General Shop-Floor Repair"
+  },
+  {
+    "work_order_no": "2602-14-25",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "Transferred the microswitch assembly to the calibration lab for extended climate and environmental testing.",
+    "actual_label": "Calibration, Inspection & Testing"
+  },
+  {
+    "work_order_no": "2602-14-26",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "سیم‌کشی داخلی قطع شده بود. مجددا لحیم کاری انجام شد و روکش حرارتی تعویض گردید. تست نهایی اوکی بود.",
+    "actual_label": "Unit Replacement & Component Overhaul"
+  },
+  {
+    "work_order_no": "2602-14-27",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "Executed cannibalization from unit SN-402 to support high priority aircraft. Switch harvested and continuity test passed.",
+    "actual_label": "Cannibalization & Parts Harvesting"
+  },
+  {
+    "work_order_no": "2602-14-28",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "The micro swich housing was cracked. Fixd using epoxy compound and reinforced the mounting base plate.",
+    "actual_label": "General Shop-Floor Repair"
+  },
+  {
+    "work_order_no": "2602-14-29",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "Complete unit overhaul. Change old lever with brand new sub-component. Calibrated and certified for flight.",
+    "actual_label": "Unit Replacement & Component Overhaul"
+  },
+  {
+    "work_order_no": "2602-14-30",
+    "part_info": "903-1341 - MicroSwitch Assy",
+    "pdf_file": null,
+    "actions_done": "Periodic scheduled inspection. Washed assembly with contact cleaner. No adjustment or repair was required.",
+    "actual_label": "Calibration, Inspection & Testing"
+  }
+]
+}
