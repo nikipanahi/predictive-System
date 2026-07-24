@@ -60,3 +60,11 @@ Access at: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 * **Admin URL:** [http://127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/)
 * **Username:** demo-admin
 * **Password:** mroadmin
+### 📂 Project Structure
+predictive-system/
+└── aviation_project_file/
+    ├── mro_app/              # Main Django application
+    ├── inventory_site/       # Django configuration
+    ├── manage.py             # Django CLI script
+    ├── requirements.txt      # Dependencies
+    └── db.sqlite3            # Pre-populated database
