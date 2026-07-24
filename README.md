@@ -50,7 +50,9 @@ The system optimizes MRO spare-parts inventory using machine learning models int
 │   └── db.sqlite3             # Pre-populated database
 ├── templates/                 # Django HTML templates
 └── README.md                  # Project documentation
-🚀 Installation & Quick Start
+```
+---
+### 🚀 Installation & Quick Start
 Follow these steps to replicate the local environment:
 
 1. Clone the Repository
