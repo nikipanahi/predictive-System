@@ -41,6 +41,6 @@ python3 -m venv venv
 source venv/bin/activate
 
 ```
-Linux / macOS:
+* **Linux / macOS:**
 python3 -m venv venv
 source venv/bin/activate
