@@ -65,12 +65,12 @@ cd predictive-system/aviation_project_file
 2. Create Virtual Environment
 Choose your OS command:
 
-Windows (PowerShell):
+* Windows (PowerShell):
 ```bash
 python -m venv venv
 .\venv\Scripts\activate
 ```
-Linux / macOS:
+* Linux / macOS:
 ```bash
 python3 -m venv venv
 source venv/bin/activate
