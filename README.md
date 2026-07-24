@@ -39,7 +39,7 @@ Choose your OS command:
   .\venv\Scripts\activate
 ```
 * **Linux / macOS:**
-  ```bash
+ ```
   python3 -m venv venv
   source venv/bin/activate
-  ```
+ ```
