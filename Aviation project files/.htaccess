@@ -1,0 +1,15 @@
+# Disable directory listing
+Options -Indexes
+
+<IfModule mod_passenger.c>
+PassengerEnabled on
+# مسیر را دقیقاً طبق فایل منیجرت اصلاح کردیم:
+PassengerAppRoot /home/aryatamo/dashboard.aryatamo.com
+PassengerAppType wsgi
+PassengerStartupFile passenger_wsgi.py
+</IfModule>
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ passenger_wsgi.py/$1 [QSA,L]
+LimitRequestBody 10485760
