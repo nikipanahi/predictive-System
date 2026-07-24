@@ -37,9 +37,9 @@ Choose your OS command:
   ```powershell
   python -m venv venv
   .\venv\Scripts\activate
-```
+  ```
 * **Linux / macOS:**
- ```
+```bash
   python3 -m venv venv
   source venv/bin/activate
- ```
+```
