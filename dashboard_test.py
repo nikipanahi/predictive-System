@@ -21,9 +21,7 @@ def load_live_data():
         if 'data' in live_data:
             df = pd.DataFrame(live_data['data'])
         else:
-            df = pd.DataFrame(live_data) # اگر ساختار لیست مستقیم بود
-            
-        # بررسی نام ستون‌ها برای جلوگیری از ناموجود بودن
+            df = pd.DataFrame(live_data) # اگر ساختار لیست مستقیم بود   
         if 'part_info' not in df.columns and len(df.columns) > 0:
             df['part_info'] = df.iloc[:, 0] # ستون اول را به عنوان پارت اینفو بگیر
         if 'actions_done' not in df.columns and len(df.columns) > 1:
@@ -38,7 +36,6 @@ def load_live_data():
 df = load_live_data()
 
 if not df.empty:
-    # 🎯 ۲. استخراج‌کننده پویا زیرقطعات (دقیقاً همان منطق کد شما)
     def extract_sub_components(text):
         text_lower = text.lower()
         component_map = {
@@ -64,14 +61,12 @@ if not df.empty:
         if 'replace' in text_lower or 'change' in text_lower or 'new one' in text_lower or 'تعویض' in text_lower:
             return 'Unit Replacement & Component Overhaul'
 
-        # بررسی فازی برای کلمات کلیدی تعمیرات
         repair_keywords = ['repair', 'resolder', 'fix', 'reconnect', 'لحیم','تعمیر']
         for word in words:
             for keyword in repair_keywords:
                 if fuzz.ratio(word, keyword) >= THRESHOLD or keyword in word:
                     return 'General Shop-Floor Repair'
 
-        # بررسی فازی برای کلمات کلیدی کالیبراسیون و تست
         calib_keywords = ['adjust', 'calibrate', 'check', 'test', 'no record', 'clean'',تنظیم']
         for word in words:
             for keyword in calib_keywords:
@@ -80,16 +75,13 @@ if not df.empty:
             
         return 'Other Custom Technical Actions'
 
-    # اعمال محاسبات روی دیتابیس واقعی شما
     df['standardized_action'] = df['actions_done'].apply(fuzzy_categorize_text_log)
     df['affected_sub_parts'] = df['actions_done'].apply(extract_sub_components)
 
-    # ─── لایه تعاملی منوی کناری (Sidebar) ───
     st.sidebar.header("🔍 Filter & Search Options")
     user_input = st.sidebar.text_input("Enter Component Name or Part Number:", "1342").strip()
 
     if user_input:
-        # فیلتر داینامیک بر اساس ورودی کاربر (دقیقاً مشابه منطق کد شما)
         matched_df = df[df['part_info'].str.lower().str.contains(user_input.lower())]
         
         if matched_df.empty:
@@ -99,10 +91,8 @@ if not df.empty:
             st.subheader(f"📊 Analytics Result for '{user_input}' ({total_cases} records found)")
             st.write("---")
             
-            # استخراج فراوانی اقدامات واقعی
             actions_counter = matched_df['standardized_action'].value_counts()
             
-            # نمایش کارت‌های شاخص عملکرد (Metrics KPI)
             col_m1, col_m2, col_m3 = st.columns(3)
             with col_m1:
                 st.metric("Total Records", f"{total_cases}")
@@ -113,7 +103,6 @@ if not df.empty:
                 
             st.write("---")
             
-            # ─── بخش تصویرسازی داده‌ها و ماشین لرنینگ ───
             col_chart1, col_chart2 = st.columns(2)
             
             with col_chart1:
@@ -132,11 +121,9 @@ if not df.empty:
                 st.write("### 📈 Machine Learning Confusion Matrix")
                 
                 if 'actual_label' in matched_df.columns:
-                    # حذف ردیف‌های خالی برای محاسبات
                     clean_matched = matched_df.dropna(subset=['actual_label', 'standardized_action'])
                     
                     if len(clean_matched) > 0:
-                        # ۱. محاسبه دقت واقعی و آپدیت سایدبار
                         correct_predictions = (clean_matched['standardized_action'] == clean_matched['actual_label']).sum()
                         accuracy = (correct_predictions / len(clean_matched)) * 100
                         st.sidebar.metric("System Accuracy", f"{accuracy:.2f}%")
@@ -154,7 +141,6 @@ if not df.empty:
                         plt.xlabel("Predicted Label")
                         plt.xticks(rotation=45, ha='right')
                         
-                        # این همان دستوری است که نمودار را چاپ می‌کند
                         st.pyplot(fig_cm) 
                     else:
                         st.sidebar.metric("System Accuracy", "N/A (No Labels)")
@@ -175,9 +161,7 @@ if not df.empty:
 
             st.write("---")
             
-            # 📋 نمایش جدول لاگ‌های کارگاه (جایگزین پرینت‌های متنی قبلی)
             st.write("### 📋 Specific Shop-Floor Records & Logs")
-            # مرتب‌سازی برای نمایش زیباتر اطلاعات طبق دسته‌بندی
             display_df = matched_df[['affected_sub_parts', 'actions_done', 'standardized_action']].rename(
                 columns={'affected_sub_parts': 'Affected Sub-Component', 'actions_done': 'Raw Log Text', 'standardized_action': 'Model Classification'}
             )
@@ -189,11 +173,9 @@ if not df.empty:
                 return (correct / len(data)) * 100
             return None
 
-    # اعمال روی دیتابیس
         df['standardized_action'] = df['actions_done'].apply(fuzzy_categorize_text_log)
         df['affected_sub_parts'] = df['actions_done'].apply(extract_sub_components)
 
-    # نمایش در سایدبار (فقط اگر ستونِ درستی وجود داشت)
         #acc = calculate_metrics(df)
         #if acc is not None:
             #st.sidebar.metric("System Accuracy", f"{acc:.2f}%")
