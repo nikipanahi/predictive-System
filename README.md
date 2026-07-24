@@ -29,7 +29,7 @@ Follow these steps to replicate the local environment:
 ```bash
 git clone https://github.com/nikipanahi/predictive-system.git
 cd predictive-system/aviation_project_file
-2. Create and Activate Virtual Environment
+### 2. Create and Activate Virtual Environment
 Windows (PowerShell):
 python -m venv venv
 .\venv\Scripts\activate
