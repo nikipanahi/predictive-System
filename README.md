@@ -57,6 +57,6 @@ python manage.py runserver
 ```
 Access at: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 ### 🔑 Demo Credentials (For Peer Review)
-Admin URL: [http://127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/)
-Username: demo-admin
-Password: mroadmin
+* **Admin URL:** [http://127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/)
+* **Username:** demo-admin
+* **Password:** mroadmin
