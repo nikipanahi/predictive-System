@@ -86,6 +86,7 @@ python manage.py migrate
 5. Run the Online Django Backend
 ```bash
 python manage.py runserver
+```
 Access at: http://127.0.0.1:8000/
 
 🔑 Demo Credentials (For Peer Review)
