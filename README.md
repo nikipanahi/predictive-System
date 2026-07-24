@@ -64,7 +64,7 @@ cd predictive-system/aviation_project_file
 ```
 2. Create Virtual Environment
 
-Choose your OS command:
+   Choose your OS command:
 
 * Windows (PowerShell):
 ```bash
