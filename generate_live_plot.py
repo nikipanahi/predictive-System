@@ -1,57 +1,74 @@
 import json
+import os
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-from sklearn.linear_model import LinearRegression
-from sklearn.preprocessing import LabelEncoder
+from sklearn.tree import DecisionTreeClassifier, plot_tree
+from sklearn.feature_extraction.text import TfidfVectorizer
 
-print("Loading data from local data.json file...")
+print("🤖 Running Re-engineered Predictive Maintenance Model...")
 
 try:
-    # ۱. خواندن دیتا از فایلی که دستی دانلود کردی
-    with open('data.json', 'r', encoding='utf-8') as f:
+    json_path = 'data.json'
+    if not os.path.exists(json_path):
+        raise FileNotFoundError(f"فایل {json_path} پیدا نشد!")
+        
+    with open(json_path, 'r', encoding='utf-8') as f:
         live_data = json.load(f)
+        
+    # ۱. استخراج دیتای اصلی
+    df = pd.DataFrame(live_data['data'])
     
-    df = pd.DataFrame(live_data)
+    # تمیزکاری اولیه ستون‌ها
+    df['part_info'] = df['part_info'].fillna("unknown part").astype(str)
+    df['actions_done'] = df['actions_done'].fillna("check").astype(str)
     
-    # استخراج فیلدها
-    X_raw = df['part_info'].astype(str).values
+    # ۲. متغیر ورودی (X): تبدیل مشخصات و نام قطعه به عدد
+    tfidf = TfidfVectorizer(max_features=15, stop_words='english')
+    X_text = tfidf.fit_transform(df['part_info']).toarray()
+    feature_names = tfidf.get_feature_names_out()
     
-    if 'repair_time' in df.columns:
-        y = df['repair_time'].astype(float).values
-    else:
-        # در صورت نبود ستون زمان، یک دیتای منطقی بر اساس طول پارت‌نامبر می‌سازیم
-        y = np.array([len(p) * 2.5 + np.random.normal(0, 1.5) for p in X_raw])
+    X = pd.DataFrame(X_text, columns=feature_names)
+    
+    # ۳. متغیر خروجی (y): دستور تعمیری که صادر شده است
+    y = df['actions_done']
+    
+    unique_actions = y.unique().tolist()
+    print(f"🎯 دستورات تعمیری کشف شده در دیتا: {len(unique_actions)} مورد منفرد.")
 
-    # ۲. پردازش مدل رگرسیون
-    encoder = LabelEncoder()
-    X_encoded = encoder.fit_transform(X_raw).reshape(-1, 1)
+    # ۴. آموزش مدل درخت تصمیم
+    tree_model = DecisionTreeClassifier(max_depth=5, min_samples_split=4, random_state=42)
+    tree_model.fit(X, y)
 
-    model = LinearRegression()
-    model.fit(X_encoded, y)
-    y_predicted = model.predict(X_encoded)
-
-    # ۳. رسم نمودار آکادمیک برای مقاله
-    plt.figure(figsize=(7, 6), dpi=300)
-    sns.set_theme(style="whitegrid")
-
-    plt.scatter(y, y_predicted, color='#2ca02c', alpha=0.7, edgecolors='k', s=80, label='Database Components')
+    # ۵. رسم درخت تصمیم با بارگذاری کاملاً مستقل کتابخانه گرافیکی
+    import matplotlib.pyplot as safe_plt
     
-    perfect_line = np.linspace(min(y), max(y), 100)
-    plt.plot(perfect_line, perfect_line, color='#d62728', linestyle='--', linewidth=2, label='Ideal Fit Line')
-
-    plt.title('Actual vs. Predicted MTTR (Local JSON Mode)', fontsize=12, fontweight='bold', pad=15)
-    plt.xlabel('Actual Repair Time (Hours)', fontsize=11, fontweight='bold')
-    plt.ylabel('Model Predicted Repair Time (Hours)', fontsize=11, fontweight='bold')
-    plt.legend(loc='upper left')
+    # ایجاد بوم نقاشی به صورت کاملاً ایزوله
+    fig, ax = safe_plt.subplots(figsize=(25, 12), dpi=300)
     
-    plt.tight_layout()
+    # ساختن نام‌های کوتاه برای کلاس‌ها (مثل Action 1, Action 2) برای جلوگیری از ارور متن‌های طولانی دیتا
+    clean_class_names = [f"Action {i+1}" for i in range(len(unique_actions))]
     
-    # ذخیره نمودار در پوشه ویندوز
-    plt.savefig('live_production_plot.png', dpi=300) 
-    plt.show()
-    print("✅ Done! 'live_production_plot.png' has been generated successfully!")
+    # رسم خود درخت روی بوم ایزوله شده
+    plot_tree(
+        tree_model, 
+        filled=True, 
+        feature_names=X.columns.tolist(),
+        class_names=clean_class_names, 
+        impurity=False, 
+        rounded=True, 
+        fontsize=6,
+        ax=ax
+    )
+    
+    ax.set_title('Aviation Maintenance Recommendation Strategy (Based on Part Specifications)', fontsize=14, fontweight='bold', pad=20)
+    
+    # ذخیره مستقیم فایل از روی آبجکت fig
+    output_img = 'automated_aviation_tree.png'
+    fig.savefig(output_img, dpi=300, bbox_inches='tight')
+    safe_plt.close(fig)
+    
+    print("\n" + "="*50)
+    print(f"✅ SUCCESS! The real recommendation tree saved as '{output_img}'.")
+    print("="*50 + "\n")
 
 except Exception as e:
     print(f"❌ Error: {e}")

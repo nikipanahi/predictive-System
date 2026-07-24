@@ -1,0 +1,40 @@
+=== Aviation Maintenance Decision Tree Rules ===
+Based on Part Specifications to Predict Actions Done
+
+|--- 903 <= 0.29
+|   |--- non <= 0.18
+|   |   |--- 45 <= 0.33
+|   |   |   |--- official <= 0.20
+|   |   |   |   |--- class: no record
+|   |   |   |--- official >  0.20
+|   |   |   |   |--- class: no record
+|   |   |--- 45 >  0.33
+|   |   |   |--- 0083 <= 0.36
+|   |   |   |   |--- class: Electrical Motor Repaired. Limit switches adjusted. Rectifire diode checked.
+|   |   |   |--- 0083 >  0.36
+|   |   |   |   |--- class: no record
+|   |--- non >  0.18
+|   |   |--- 69 <= 0.45
+|   |   |   |--- official <= 0.39
+|   |   |   |   |--- class: no record
+|   |   |   |--- official >  0.39
+|   |   |   |   |--- class: no record
+|   |   |--- 69 >  0.45
+|   |   |   |--- class: Verified via QR Scan by n-panahi
+|--- 903 >  0.29
+|   |--- 903 <= 0.74
+|   |   |--- official <= 0.20
+|   |   |   |--- class: All Connections Fixed and Checked. Receiver Checked. No Side Tone Intermittent. PTT Switch Intermittent. PTT Switch Repaired. No Side Tone Repaired.
+|   |   |--- official >  0.20
+|   |   |   |--- class: Removed Intermittency from Unit. Checked All Connections and Cleaned All of Them. Found Ok.
+|   |--- 903 >  0.74
+|   |   |--- class: Responsibility transferred to: d-aria
+mm
+Inventory Verification: Item found in shop via internal QR scanner.
+Inventory Verification: Item found in shop via internal QR scanner.
+Inventory Verification: Item found in shop via internal QR scanner.
+Verified via QR Scan.
+Verified via QR Scan.
+Verified via QR Scan.
+Verified via QR Scan.
+Verified via QR Scan.

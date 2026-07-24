@@ -1,0 +1,25 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label=<diode_rectifier &le; 0.5<br/>samples = 64<br/>value = [10, 41, 13]<br/>class = Repair>, fillcolor="#92f1ba"] ;
+1 [label=<electric_motor &le; 0.5<br/>samples = 60<br/>value = [6, 41, 13]<br/>class = Repair>, fillcolor="#89f0b4"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label=<control_board &le; 0.5<br/>samples = 57<br/>value = [6, 41, 10]<br/>class = Repair>, fillcolor="#7ceeac"] ;
+1 -> 2 ;
+3 [label=<vhf_receiver &le; 0.5<br/>samples = 55<br/>value = [6, 41, 8]<br/>class = Repair>, fillcolor="#74eda7"] ;
+2 -> 3 ;
+4 [label=<general_avionics_part &le; 0.5<br/>samples = 54<br/>value = [5, 41, 8]<br/>class = Repair>, fillcolor="#71eca5"] ;
+3 -> 4 ;
+5 [label=<samples = 53<br/>value = [5, 41, 7]<br/>class = Repair>, fillcolor="#6deca2"] ;
+4 -> 5 ;
+6 [label=<samples = 1<br/>value = [0, 0, 1]<br/>class = Replacement>, fillcolor="#8139e5"] ;
+4 -> 6 ;
+7 [label=<samples = 1<br/>value = [1, 0, 0]<br/>class = Adjustment>, fillcolor="#e58139"] ;
+3 -> 7 ;
+8 [label=<samples = 2<br/>value = [0, 0, 2]<br/>class = Replacement>, fillcolor="#8139e5"] ;
+2 -> 8 ;
+9 [label=<samples = 3<br/>value = [0, 0, 3]<br/>class = Replacement>, fillcolor="#8139e5"] ;
+1 -> 9 ;
+10 [label=<samples = 4<br/>value = [4, 0, 0]<br/>class = Adjustment>, fillcolor="#e58139"] ;
+0 -> 10 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}
