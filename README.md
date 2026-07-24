@@ -28,16 +28,9 @@ Run this in your terminal:
 ```bash
 git clone https://github.com/nikipanahi/predictive-system.git
 cd predictive-system/aviation_project_file
-2. Create Virtual Environment
+### 2. Create Virtual Environment
 Choose your OS command:
-
-Windows (PowerShell):
-
-PowerShell
-python -m venv venv
-.\venv\Scripts\activate
-Linux / macOS:
-
-Bash
-python3 -m venv venv
-source venv/bin/activate
+* **Windows (PowerShell):**
+  ```powershell
+  python -m venv venv
+  .\venv\Scripts\activate
