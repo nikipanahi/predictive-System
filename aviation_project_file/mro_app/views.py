@@ -325,42 +325,47 @@ from sklearn.preprocessing import LabelEncoder
 import joblib 
 def train_advanced_model():
     import pandas as pd
-    from sklearn.ensemble import RandomForestRegressor
+    from sklearn.linear_model import LinearRegression
     from sklearn.preprocessing import LabelEncoder
     import joblib
     from Tamo.models import PartIn
+    
+    # 1. Fetching Data
     data = PartIn.objects.filter(repair_completed_at__isnull=False).values(
         'part_info__part_number', 
-        'customer', 
-        'reason_of_removal', 
-        'assigned_to__username',
         'created_at', 
         'repair_completed_at'
     )
     if not data.exists():
         return
+        
     df = pd.DataFrame(list(data))
     df['created_at'] = pd.to_datetime(df['created_at'])
     df['repair_completed_at'] = pd.to_datetime(df['repair_completed_at'])
+    
+    # Target Variable (MTTR in days)
     df['duration'] = (df['repair_completed_at'] - df['created_at']).dt.days
-    df['month'] = df['created_at'].dt.month 
-    encoders = {}
-    categorical_features = ['part_info__part_number', 'customer', 'reason_of_removal', 'assigned_to__username']
-    for col in categorical_features:
-        le = LabelEncoder()
-        df[col] = df[col].fillna('Unknown')
-        df[f'{col}_enc'] = le.fit_transform(df[col])
-        encoders[col] = le
-    features = [f'{col}_enc' for col in categorical_features] + ['month']
-    X = df[features]
+    
+    # 2. Single-variable Encoding (Part Number)
+    le = LabelEncoder()
+    df['part_number_enc'] = le.fit_transform(df['part_info__part_number'].fillna('Unknown'))
+    
+    # 3. Single-variable Linear Regression
+    X = df[['part_number_enc']] # Single variable as claimed in the paper
     y = df['duration']
-    importances = model.feature_importances_
-    influence_report = dict(zip(['Part Number', 'Customer', 'Reason', 'Technician', 'Month'], importances))
-    print("\n--- Intelligent analysis of the impact of factors on repair time ---")
-    for feature, score in influence_report.items():
-        print(f"تأثیر {feature}: {score * 100:.2f}%")
-        joblib.dump(encoders,'label_encoders.pkl')
-    return influence_report
+    
+    model = LinearRegression()
+    model.fit(X, y)
+    
+    # 4. Save model and encoders
+    joblib.dump(model, 'repair_estimator_model.pkl')
+    encoders = {'part_info__part_number': le}
+    joblib.dump(encoders, 'label_encoders.pkl')
+    
+    print("\n--- Linear Regression Model Trained Successfully ---")
+    print(f"Model Coefficient (Weight): {model.coef_[0]:.4f}")
+    
+    return {"status": "success", "algorithm": "Single-variable Linear Regression"}
 from django.db import connection
 def fix_db(request):
     with connection.cursor() as cursor:
