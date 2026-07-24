@@ -100,5 +100,5 @@ Password: mroadmin
 Navigate to the analytical directory and run the Streamlit app:
 ```bash
 cd ../Offline_Portal
-```
 streamlit run app.py
+```
