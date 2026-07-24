@@ -39,3 +39,8 @@ Choose your OS command:
   .\venv\Scripts\activate
 python3 -m venv venv
 source venv/bin/activate
+Linux / macOS:
+
+```
+python3 -m venv venv
+source venv/bin/activate
