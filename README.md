@@ -99,7 +99,9 @@ predictive-system/
 ├── manage.py                  # Django project manager
 └── README.md                  # Project documentation
 🚀 Getting Started
-1. Run the Offline Analytical Dashboard
+### 1. Run the Offline Analytical Dashboard
 Navigate to the analytical directory and run the Streamlit app:
-
-Bash
+```bash
+cd Offline_Portal
+streamlit run app.py
+```
