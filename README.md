@@ -27,36 +27,41 @@ Follow these steps to replicate the local environment:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/nikipanahi/predictive-system.git
+git clone [https://github.com/nikipanahi/predictive-system.git](https://github.com/nikipanahi/predictive-system.git)
 cd predictive-system/aviation_project_file
-### 2. Create and Activate Virtual Environment
+2. Create and Activate Virtual Environment
 Windows (PowerShell):
+
+PowerShell
 python -m venv venv
 .\venv\Scripts\activate
 Linux / macOS:
-python3 -m venv venv
-source venv/bin/activate
+
+Bash
 python3 -m venv venv
 source venv/bin/activate
 3. Install Dependencies
+Bash
 pip install -r requirements.txt
 4. Apply Database Migrations
-python manage.py migrate
+Bash
 python manage.py migrate
 5. Run the Local Development Server
+Bash
 python manage.py runserver
-Access the application in your browser at: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
+Access the application in your browser at: http://127.0.0.1:8000/
 
 🔑 Demo Credentials (For Peer Review)
 To review admin functionality and interactive dashboards:
 
-Admin / Login URL: [http://127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/)
+Admin / Login URL: http://127.0.0.1:8000/admin/
 
 Username: reviewer
 
 Password: MroAdmin2026!
 
 📂 Project Structure
+Plaintext
 predictive-system/
 └── aviation_project_file/
     ├── mro_app/              # Main Django application (models, views, forms)
@@ -64,16 +69,3 @@ predictive-system/
     ├── manage.py             # Django CLI management script
     ├── requirements.txt      # Project dependencies
     └── db.sqlite3            # Pre-populated local database
-predictive System using ML
-# ✈️ Shop-Floor Predictive Maintenance Strategy (Aviation Logs Text-Mining)
-
-This repository contains a specialized Text-Mining and Machine Learning model that analyzes real-world aviation maintenance logs to predict and classify structural actions on official vs. non-official aircraft parts.
-
-## 📊 Project Output
-Here is the operational dashboard of the Django-based MRO platform:
-![MRO Platform Dashboard](dashboard.png)
-
-## 🛠️ Tech Stack
-- Python 3.x
-- Scikit-Learn (DecisionTreeClassifier, TfidfVectorizer)
-- Pandas & Matplotlib
