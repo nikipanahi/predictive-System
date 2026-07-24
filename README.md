@@ -43,3 +43,7 @@ Choose your OS command:
   python3 -m venv venv
   source venv/bin/activate
 ```
+**3. Install Dependencies**
+```bash
+pip install -r requirements.txt
+```
