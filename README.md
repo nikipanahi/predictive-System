@@ -61,6 +61,7 @@ Access at: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 * **Username:** demo-admin
 * **Password:** mroadmin
 ### 📂 Project Structure
+```bash
 predictive-system/
 └── aviation_project_file/
     ├── mro_app/              # Main Django application
@@ -68,3 +69,4 @@ predictive-system/
     ├── manage.py             # Django CLI script
     ├── requirements.txt      # Dependencies
     └── db.sqlite3            # Pre-populated database
+```
