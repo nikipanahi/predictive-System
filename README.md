@@ -29,15 +29,14 @@ Key features:
 
 Follow these steps to replicate the local environment:
 
-### 1. Clone the Repository
+## 1. Clone the Repository
 
 Run this in your terminal:
 ```bash
 git clone https://github.com/nikipanahi/predictive-system.git
 cd predictive-system/aviation_project_file
-
 ```
-### 2. Create Virtual Environment
+## 2. Create Virtual Environment
 Choose your OS command:
 * **Windows (PowerShell):**
   ```powershell
@@ -49,24 +48,24 @@ Choose your OS command:
   python3 -m venv venv
   source venv/bin/activate
 ```
-### 3. Install Dependencies
+## 3. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
-### 4. Apply Database Migrations
+## 4. Apply Database Migrations
 ```bash
 python manage.py migrate
 ```
-### 5. Run the Server
+## 5. Run the Server
 ```bash
 python manage.py runserver
 ```
 Access at: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
-### 🔑 Demo Credentials (For Peer Review)
+## 🔑 Demo Credentials (For Peer Review)
 * **Admin URL:** [http://127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/)
 * **Username:** demo-admin
 * **Password:** mroadmin
-### 📂 Project Structure
+## 📂 Project Structure
 ```bash
 predictive-system/
 └── aviation_project_file/
