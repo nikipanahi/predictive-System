@@ -59,7 +59,7 @@ Follow these steps to replicate the local environment:
 Run this in your terminal:
 
 ```bash
-git clone [https://github.com/nikipanahi/predictive-system.git]
+git clone [https://github.com/nikipanahi/predictive-system.git](https://github.com/nikipanahi/predictive-system.git)
 cd predictive-system/aviation_project_file
 ```
 2. Create Virtual Environment
