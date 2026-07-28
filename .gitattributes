@@ -1,0 +1,8 @@
+# Ignore JS, CSS, and HTML vendor files from language statistics
+*.js linguist-vendored
+*.css linguist-vendored
+*.html linguist-vendored
+
+# Ignore static directories explicitly
+aviation_project_file/static/* linguist-vendored
+aviation_project_file/staticfiles/* linguist-vendored
