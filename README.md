@@ -114,3 +114,7 @@ Navigate to the analytical directory and run the Streamlit app:
 cd ../Offline_Portal
 python -m streamlit run dashboard_test.py
 ```
+### 🔐 Administrative Control Panel (Django Admin)
+All administrative operations, customer registrations, and master part definitions are securely managed via the Django Admin interface (`/admin`):
+
+![Django Administration](django_admin.png)
