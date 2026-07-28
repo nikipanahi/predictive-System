@@ -1,7 +1,17 @@
 # ✈️ Aviation MRO Inventory & Smart Predictive Maintenance System
 
 This repository contains the source code for the Django-based MRO (Maintenance, Repair, and Overhaul) inventory management system and its companion offline analytical portal, strictly aligned with academic and IEEE standards.
-![Aviation Analytics Dashboard](dashboard.png)
+## ✈️ Project Overview
+
+The system optimizes MRO spare-parts inventory using machine learning models integrated with an offline analytics dashboard.
+
+<p align="center">
+  <img src="dashboard.png" alt="Smart Aviation Maintenance Analytics Dashboard" width="850"/>
+</p>
+
+### Key Features:
+* **Predictive Analytics:** ML models for repair estimation.
+* **Fuzzy Text Mining:** Standardizes technician log typos automatically.
 ---
 
 ## 🏗️ System Architecture
