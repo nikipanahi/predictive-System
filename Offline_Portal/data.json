@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
   "status": "success",
   "data": [
@@ -112,66 +111,63 @@
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Cable and Wires Disconnected. PTT Switch Intermittent. PTT Switch Repaired. Reconnected Wires. All Connections Fixed and Checked.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "XXXX-01-09",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "PTT Switch Intermittent. PTT Switch Repaired. Cable and Wires Disconnected. Reconnected Wires. Mic and Receiver Checked. Microphone Checked.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
-    
     {
       "work_order_no": "XXXX-01-04",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Removed Intermittency from Unit. Checked All Connections and Cleaned All of Them. Found Ok.",
-      "actual_label":"Calibration, Inspection & Testing"
+      "actual_label": "Calibration, Inspection & Testing"
     },
     {
       "work_order_no": "XXXX-01-06",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Checked All Connections and Cleaned All of Them. Found Ok.",
-      "actual_label":"Calibration, Inspection & Testing"
-
+      "actual_label": "Calibration, Inspection & Testing"
     },
     {
       "work_order_no": "XXXX-01-07",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Removed Intermittency from Unit. Checked All Connections and Cleaned All of Them. Found Ok.",
-      "actual_label":"Calibration, Inspection & Testing"
-
+      "actual_label": "Calibration, Inspection & Testing"
     },
     {
       "work_order_no": "XXXX-01-08",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Removed inttermitency from unit. checked all connections and cleaned all of them. found ok.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "XXXX-01-09",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Resoldered Amp. Circuit. Checked All Connections and Cleaned All of Them. Found Ok.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "XXXX-22-04",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Switch contact cleaned. Checked wiring and amplifier.",
-      "actual_label":"Calibration, Inspection & Testing"
+      "actual_label": "Calibration, Inspection & Testing"
     },
     {
       "work_order_no": "XXXX-01-02",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Wire is disconnected. Reconnected wires. Repair procedure done. Unit tested found ok. Cleaning done.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "XXXX-04-N03",
@@ -826,7 +822,7 @@
       "part_info": "45-0057-1 - Official",
       "pdf_file": "/media/parts_pdfs/e6ffc5ab-8187-472c-9644-923c9a92abea.pdf",
       "actions_done": "Electrical Motor Repaired. Limit switches adjusted. Rectifire diode checked.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "XXXX-01-01-03",
@@ -845,7 +841,7 @@
       "part_info": "45-0057-1 - Official",
       "pdf_file": null,
       "actions_done": "Electrical Motor repaired.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "XXXX-01-01",
@@ -900,14 +896,14 @@
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Cable and Wires Disconnected. PTT Switch Intermittent. PTT Switch Repaired. Reconnected Wires. All Connections Fixed and Checked.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "XXXX-01-09",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "PTT Switch Intermittent. PTT Switch Repaired. Cable and Wires Disconnected. Reconnected Wires. Mic and Receiver Checked. Microphone Checked.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "XXXX-01-05",
@@ -980,37 +976,35 @@
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Removed Intermittency from Unit. Checked All Connections and Cleaned All of Them. Found Ok.",
-      "actual_label":"Calibration, Inspection & Testing"
+      "actual_label": "Calibration, Inspection & Testing"
     },
     {
       "work_order_no": "XXXX-01-06",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Checked All Connections and Cleaned All of Them. Found Ok.",
-      "actual_label":"Calibration, Inspection & Testing"
-
+      "actual_label": "Calibration, Inspection & Testing"
     },
     {
       "work_order_no": "XXXX-01-07",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Removed Intermittency from Unit. Checked All Connections and Cleaned All of Them. Found Ok.",
-      "actual_label":"Calibration, Inspection & Testing"
-
+      "actual_label": "Calibration, Inspection & Testing"
     },
     {
       "work_order_no": "XXXX-01-08",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Removed inttermitency from unit. checked all connections and cleaned all of them. found ok.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "XXXX-01-09",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Resoldered Amp. Circuit. Checked All Connections and Cleaned All of Them. Found Ok.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "XXXX-01-10",
@@ -1065,7 +1059,7 @@
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Switch contact cleaned. Checked wiring and amplifier.",
-      "actual_label":"Calibration, Inspection & Testing"
+      "actual_label": "Calibration, Inspection & Testing"
     },
     {
       "work_order_no": "XXXX-03-01",
@@ -1090,7 +1084,7 @@
       "part_info": "45-0057-1 - Official",
       "pdf_file": null,
       "actions_done": "Gearbox Repaired. MicroSwitches Adjusted. Lamp Wire Changed by New One. Unit Found Ok. All Repair Procedures Done.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "2503-22-01",
@@ -1217,7 +1211,7 @@
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Wire is disconnected. Reconnected wires. Repair procedure done. Unit tested found ok. Cleaning done.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "XXXX-01-03",
@@ -1230,7 +1224,7 @@
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Wires Fixed and Checked. Unit repaired. tested found ok. Cleaning done.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "XXXX-01-05",
@@ -1291,7 +1285,7 @@
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Microphone Repaired. Wiring Checked. Unit Tested and Checked.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "XXXX-15-02",
@@ -1304,7 +1298,7 @@
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Wires Fixed and Checked. Unit repaired. tested found ok. Cleaning done.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "XXXX-01-02",
@@ -1317,281 +1311,274 @@
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Microphone Repaired. Wiring Checked. Unit Tested and Checked.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "XXXX-01-01",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Microphone Repaired. Wiring Checked. Unit Tested and Checked.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "XXXX-01-01",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Microphone fixed. . Unit Tested and Checked.",
-      "actual_label":"Calibration, Inspection & Testing"
+      "actual_label": "Calibration, Inspection & Testing"
     },
     {
       "work_order_no": "XXXX-01-02",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Microphone Chenged by new one. Unit Tested and Checked.",
-      "actual_label":"Unit Replacement & Component Overhaul"
+      "actual_label": "Unit Replacement & Component Overhaul"
     },
     {
       "work_order_no": "XXXX-01-03",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Amp checked. Unit clean and found ok.",
-      "actual_label":"Calibration, Inspection & Testing"
+      "actual_label": "Calibration, Inspection & Testing"
     },
     {
       "work_order_no": "XXXX-01-04",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "connections fixed and. board resoldered.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "XXXX-01-05",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "PTT Switch cannibalized by another serial no. resoldered and found ok.",
-      "actual_label":"Cannibalization & Parts Harvesting"
+      "actual_label": "Cannibalization & Parts Harvesting"
     },
     {
       "work_order_no": "XXXX-02-01",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "all of sw checked. found ok.",
-      "actual_label":"Calibration, Inspection & Testing"
-    }
-    ,
+      "actual_label": "Calibration, Inspection & Testing"
+    },
     {
       "work_order_no": "XXXX-02-02",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "all of sw checked. found ok.",
-      "actual_label":"Calibration, Inspection & Testing"
+      "actual_label": "Calibration, Inspection & Testing"
     },
     {
-    "work_order_no": "XXXX-14-01",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Microswich wire was broken. Resoldered the connection and fixed the internal housing. Unit tested ok after shop repair.",
-    "actual_label": "General Shop-Floor Repair"
-  },
-  {
-    "work_order_no": "XXXX-14-02",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Performed routine bench inspection on 903-1341. Cleaned contacts and adjusted the limit switch clearance. Calibration parameters within limits.",
-    "actual_label": "Calibration, Inspection & Testing"
-  },
-  {
-    "work_order_no": "XXXX-14-03",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Old microswitch showed severe contact wear. Changed it with a new one from stock. Overhauled the housing assembly.",
-    "actual_label": "Unit Replacement & Component Overhaul"
-  },
-  {
-    "work_order_no": "XXXX-14-04",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Urgent part shortage for main assembly. Cannibalized the microswitch assembly from a scrapped unit. Re-installed and found ok.",
-    "actual_label": "Cannibalization & Parts Harvesting"
-  },
-  {
-    "work_order_no": "XXXX-14-05",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Checked the unit due to pilot report. Found loose wire on switch. Reconnected and resoldered. Repaired housing bracket.",
-    "actual_label": "General Shop-Floor Repair"
-  },
-  {
-    "work_order_no": "XXXX-14-06",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Slight misalignment in limit swich lever. No physical damage. Adjsted the screw and calibrated to nominal values. Cleaned dust.",
-    "actual_label": "Calibration, Inspection & Testing"
-  },
-  {
-    "work_order_no": "XXXX-14-07",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Wireing harness was loose. Fixd the connection and repaird the limit swich. Tested fine on bench.",
-    "actual_label": "General Shop-Floor Repair"
-  },
-  {
-    "work_order_no": "XXXX-14-08",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Instpected the assembly. Cleaned all dirty contacts. Adjsted the micro switch position. Calibration ok.",
-    "actual_label": "Calibration, Inspection & Testing"
-  },
-  {
-    "work_order_no": "XXXX-14-09",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Unit failed continuity check. Replaced the microswitch mechanism entirely. New component installed and verified.",
-    "actual_label": "Unit Replacement & Component Overhaul"
-  },
-  {
-    "work_order_no": "XXXX-14-10",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Inspected part 903-1341. No discrepancies noted. Handed over to quality assurance for final clearance check.",
-    "actual_label": "Calibration, Inspection & Testing"
-  },
-  {
-    "work_order_no": "XXXX-14-11",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Cannibalized switch from bench stock, then repaired the mounting plate. Finally adjusted and calibrated for service.",
-    "actual_label": "Cannibalization & Parts Harvesting"
-  },
-  {
-    "work_order_no": "XXXX-14-12",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Contacts heavily oxidized. Resoldered internal diode and fixed the switch gating mechanism. Unit found functional.",
-    "actual_label": "General Shop-Floor Repair"
-  },
-  {
-    "work_order_no": "XXXX-14-13",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Routine calibration dependency. Re-adjusted tolerances and check electrical continuity. No repair needed.",
-    "actual_label": "Calibration, Inspection & Testing"
-  },
-  {
-    "work_order_no": "XXXX-14-14",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Microswitch completely burned out. Executed complete overhaul and change by new one from avionics shop.",
-    "actual_label": "Unit Replacement & Component Overhaul"
-  },
-  {
-    "work_order_no": "XXXX-14-15",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Part harvesting performed due to urgent aircraft AOG status. Removed micro-switch 903-1341 for secondary use.",
-    "actual_label": "Cannibalization & Parts Harvesting"
-  },
-  {
-    "work_order_no": "XXXX-14-16",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "The switch gating mechanism was slightly loose. Fixed the loose bracket, then checked performance on the test bench. Found fully operational.",
-    "actual_label": "General Shop-Floor Repair"
-  },
-  {
-    "work_order_no": "XXXX-14-17",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "تنظیم لیمیت سوئیچ انجام شد. کالیبراسیون با موفقیت پاس شد. No physical defects found during visual inspection.",
-    "actual_label": "Calibration, Inspection & Testing"
-  },
-  {
-    "work_order_no": "XXXX-14-18",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Reconected internal wiring after finding a bad solder joint. Repard the internal contact plate.",
-    "actual_label": "General Shop-Floor Repair"
-  },
-  {
-    "work_order_no": "XXXX-14-19",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "عملیات قطعه‌برداری روی تجهیز انجام شد. Took the microswitch assembly for aircraft tail gear. Scrapped the rest.",
-    "actual_label": "Cannibalization & Parts Harvesting"
-  },
-  {
-    "work_order_no": "XXXX-14-20",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "تعویض کامل میکروسوئیچ آسیب‌دیده با نمونه نو از انبار فنی. Unit operational check ok.",
-    "actual_label": "Unit Replacement & Component Overhaul"
-  },
-  {
-    "work_order_no": "XXXX-14-21",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Inspected the burned diode. Replaced it with a new one, resoldered connections, and calibrated the microswitch trigger point.",
-    "actual_label": "Unit Replacement & Component Overhaul"
-  },
-  {
-    "work_order_no": "XXXX-14-22",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Awaiting engineering disposition due to unusual structural cracks on the microswitch mounting block. Unit isolated.",
-    "actual_label": "Other Custom Technical Actions"
-  },
-  {
-    "work_order_no": "XXXX-14-23",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Cleand dirty contact surfaces and adjustd the limit lever gap. Over-travel test was successful.",
-    "actual_label": "Calibration, Inspection & Testing"
-  },
-  {
-    "work_order_no": "XXXX-14-24",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "903-1341 was reporting intermittent faults. Bench test confirmed unstable signals. Reconnected loose internal pin and resoldered the ground wire.",
-    "actual_label": "General Shop-Floor Repair"
-  },
-  {
-    "work_order_no": "XXXX-14-25",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Transferred the microswitch assembly to the calibration lab for extended climate and environmental testing.",
-    "actual_label": "Calibration, Inspection & Testing"
-  },
-  {
-    "work_order_no": "XXXX-14-26",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "سیم‌کشی داخلی قطع شده بود. مجددا لحیم کاری انجام شد و روکش حرارتی تعویض گردید. تست نهایی اوکی بود.",
-    "actual_label": "Unit Replacement & Component Overhaul"
-  },
-  {
-    "work_order_no": "XXXX-14-27",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Executed cannibalization from unit SN-402 to support high priority aircraft. Switch harvested and continuity test passed.",
-    "actual_label": "Cannibalization & Parts Harvesting"
-  },
-  {
-    "work_order_no": "XXXX-14-28",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "The micro swich housing was cracked. Fixd using epoxy compound and reinforced the mounting base plate.",
-    "actual_label": "General Shop-Floor Repair"
-  },
-  {
-    "work_order_no": "XXXX-14-29",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Complete unit overhaul. Change old lever with brand new sub-component. Calibrated and certified for flight.",
-    "actual_label": "Unit Replacement & Component Overhaul"
-  },
-  {
-    "work_order_no": "XXXX-14-30",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Periodic scheduled inspection. Washed assembly with contact cleaner. No adjustment or repair was required.",
-    "actual_label": "Calibration, Inspection & Testing"
-  }
-]
-}
-=======
-{
-  "status": "success",
-  "data": [
+      "work_order_no": "XXXX-14-01",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Microswich wire was broken. Resoldered the connection and fixed the internal housing. Unit tested ok after shop repair.",
+      "actual_label": "General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "XXXX-14-02",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Performed routine bench inspection on 903-1341. Cleaned contacts and adjusted the limit switch clearance. Calibration parameters within limits.",
+      "actual_label": "Calibration, Inspection & Testing"
+    },
+    {
+      "work_order_no": "XXXX-14-03",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Old microswitch showed severe contact wear. Changed it with a new one from stock. Overhauled the housing assembly.",
+      "actual_label": "Unit Replacement & Component Overhaul"
+    },
+    {
+      "work_order_no": "XXXX-14-04",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Urgent part shortage for main assembly. Cannibalized the microswitch assembly from a scrapped unit. Re-installed and found ok.",
+      "actual_label": "Cannibalization & Parts Harvesting"
+    },
+    {
+      "work_order_no": "XXXX-14-05",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Checked the unit due to pilot report. Found loose wire on switch. Reconnected and resoldered. Repaired housing bracket.",
+      "actual_label": "General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "XXXX-14-06",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Slight misalignment in limit swich lever. No physical damage. Adjsted the screw and calibrated to nominal values. Cleaned dust.",
+      "actual_label": "Calibration, Inspection & Testing"
+    },
+    {
+      "work_order_no": "XXXX-14-07",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Wireing harness was loose. Fixd the connection and repaird the limit swich. Tested fine on bench.",
+      "actual_label": "General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "XXXX-14-08",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Instpected the assembly. Cleaned all dirty contacts. Adjsted the micro switch position. Calibration ok.",
+      "actual_label": "Calibration, Inspection & Testing"
+    },
+    {
+      "work_order_no": "XXXX-14-09",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Unit failed continuity check. Replaced the microswitch mechanism entirely. New component installed and verified.",
+      "actual_label": "Unit Replacement & Component Overhaul"
+    },
+    {
+      "work_order_no": "XXXX-14-10",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Inspected part 903-1341. No discrepancies noted. Handed over to quality assurance for final clearance check.",
+      "actual_label": "Calibration, Inspection & Testing"
+    },
+    {
+      "work_order_no": "XXXX-14-11",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Cannibalized switch from bench stock, then repaired the mounting plate. Finally adjusted and calibrated for service.",
+      "actual_label": "Cannibalization & Parts Harvesting"
+    },
+    {
+      "work_order_no": "XXXX-14-12",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Contacts heavily oxidized. Resoldered internal diode and fixed the switch gating mechanism. Unit found functional.",
+      "actual_label": "General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "XXXX-14-13",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Routine calibration dependency. Re-adjusted tolerances and check electrical continuity. No repair needed.",
+      "actual_label": "Calibration, Inspection & Testing"
+    },
+    {
+      "work_order_no": "XXXX-14-14",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Microswitch completely burned out. Executed complete overhaul and change by new one from avionics shop.",
+      "actual_label": "Unit Replacement & Component Overhaul"
+    },
+    {
+      "work_order_no": "XXXX-14-15",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Part harvesting performed due to urgent aircraft AOG status. Removed micro-switch 903-1341 for secondary use.",
+      "actual_label": "Cannibalization & Parts Harvesting"
+    },
+    {
+      "work_order_no": "XXXX-14-16",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "The switch gating mechanism was slightly loose. Fixed the loose bracket, then checked performance on the test bench. Found fully operational.",
+      "actual_label": "General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "XXXX-14-17",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "تنظیم لیمیت سوئیچ انجام شد. کالیبراسیون با موفقیت پاس شد. No physical defects found during visual inspection.",
+      "actual_label": "Calibration, Inspection & Testing"
+    },
+    {
+      "work_order_no": "XXXX-14-18",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Reconected internal wiring after finding a bad solder joint. Repard the internal contact plate.",
+      "actual_label": "General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "XXXX-14-19",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "عملیات قطعه‌برداری روی تجهیز انجام شد. Took the microswitch assembly for aircraft tail gear. Scrapped the rest.",
+      "actual_label": "Cannibalization & Parts Harvesting"
+    },
+    {
+      "work_order_no": "XXXX-14-20",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "تعویض کامل میکروسوئیچ آسیب‌دیده با نمونه نو از انبار فنی. Unit operational check ok.",
+      "actual_label": "Unit Replacement & Component Overhaul"
+    },
+    {
+      "work_order_no": "XXXX-14-21",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Inspected the burned diode. Replaced it with a new one, resoldered connections, and calibrated the microswitch trigger point.",
+      "actual_label": "Unit Replacement & Component Overhaul"
+    },
+    {
+      "work_order_no": "XXXX-14-22",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Awaiting engineering disposition due to unusual structural cracks on the microswitch mounting block. Unit isolated.",
+      "actual_label": "Other Custom Technical Actions"
+    },
+    {
+      "work_order_no": "XXXX-14-23",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Cleand dirty contact surfaces and adjustd the limit lever gap. Over-travel test was successful.",
+      "actual_label": "Calibration, Inspection & Testing"
+    },
+    {
+      "work_order_no": "XXXX-14-24",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "903-1341 was reporting intermittent faults. Bench test confirmed unstable signals. Reconnected loose internal pin and resoldered the ground wire.",
+      "actual_label": "General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "XXXX-14-25",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Transferred the microswitch assembly to the calibration lab for extended climate and environmental testing.",
+      "actual_label": "Calibration, Inspection & Testing"
+    },
+    {
+      "work_order_no": "XXXX-14-26",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "سیم‌کشی داخلی قطع شده بود. مجددا لحیم کاری انجام شد و روکش حرارتی تعویض گردید. تست نهایی اوکی بود.",
+      "actual_label": "Unit Replacement & Component Overhaul"
+    },
+    {
+      "work_order_no": "XXXX-14-27",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Executed cannibalization from unit SN-402 to support high priority aircraft. Switch harvested and continuity test passed.",
+      "actual_label": "Cannibalization & Parts Harvesting"
+    },
+    {
+      "work_order_no": "XXXX-14-28",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "The micro swich housing was cracked. Fixd using epoxy compound and reinforced the mounting base plate.",
+      "actual_label": "General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "XXXX-14-29",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Complete unit overhaul. Change old lever with brand new sub-component. Calibrated and certified for flight.",
+      "actual_label": "Unit Replacement & Component Overhaul"
+    },
+    {
+      "work_order_no": "XXXX-14-30",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Periodic scheduled inspection. Washed assembly with contact cleaner. No adjustment or repair was required.",
+      "actual_label": "Calibration, Inspection & Testing"
+    },
     {
       "work_order_no": "2602-14-31",
       "part_info": "903-1341 - MicroSwitch Assy",
@@ -1702,66 +1689,63 @@
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Cable and Wires Disconnected. PTT Switch Intermittent. PTT Switch Repaired. Reconnected Wires. All Connections Fixed and Checked.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "2405-01-09",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "PTT Switch Intermittent. PTT Switch Repaired. Cable and Wires Disconnected. Reconnected Wires. Mic and Receiver Checked. Microphone Checked.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
-    
     {
       "work_order_no": "2410-01-04",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Removed Intermittency from Unit. Checked All Connections and Cleaned All of Them. Found Ok.",
-      "actual_label":"Calibration, Inspection & Testing"
+      "actual_label": "Calibration, Inspection & Testing"
     },
     {
       "work_order_no": "2410-01-06",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Checked All Connections and Cleaned All of Them. Found Ok.",
-      "actual_label":"Calibration, Inspection & Testing"
-
+      "actual_label": "Calibration, Inspection & Testing"
     },
     {
       "work_order_no": "2410-01-07",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Removed Intermittency from Unit. Checked All Connections and Cleaned All of Them. Found Ok.",
-      "actual_label":"Calibration, Inspection & Testing"
-
+      "actual_label": "Calibration, Inspection & Testing"
     },
     {
       "work_order_no": "2410-01-08",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Removed inttermitency from unit. checked all connections and cleaned all of them. found ok.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "2410-01-09",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Resoldered Amp. Circuit. Checked All Connections and Cleaned All of Them. Found Ok.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "2501-22-04",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Switch contact cleaned. Checked wiring and amplifier.",
-      "actual_label":"Calibration, Inspection & Testing"
+      "actual_label": "Calibration, Inspection & Testing"
     },
     {
       "work_order_no": "2509-01-02",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Wire is disconnected. Reconnected wires. Repair procedure done. Unit tested found ok. Cleaning done.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "2512-04-N03",
@@ -2416,7 +2400,7 @@
       "part_info": "45-0057-1 - Official",
       "pdf_file": "/media/parts_pdfs/e6ffc5ab-8187-472c-9644-923c9a92abea.pdf",
       "actions_done": "Electrical Motor Repaired. Limit switches adjusted. Rectifire diode checked.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "2404-01-01-03",
@@ -2435,7 +2419,7 @@
       "part_info": "45-0057-1 - Official",
       "pdf_file": null,
       "actions_done": "Electrical Motor repaired.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "2405-01-01",
@@ -2490,14 +2474,14 @@
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Cable and Wires Disconnected. PTT Switch Intermittent. PTT Switch Repaired. Reconnected Wires. All Connections Fixed and Checked.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "2405-01-09",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "PTT Switch Intermittent. PTT Switch Repaired. Cable and Wires Disconnected. Reconnected Wires. Mic and Receiver Checked. Microphone Checked.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "2405-01-05",
@@ -2570,37 +2554,35 @@
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Removed Intermittency from Unit. Checked All Connections and Cleaned All of Them. Found Ok.",
-      "actual_label":"Calibration, Inspection & Testing"
+      "actual_label": "Calibration, Inspection & Testing"
     },
     {
       "work_order_no": "2410-01-06",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Checked All Connections and Cleaned All of Them. Found Ok.",
-      "actual_label":"Calibration, Inspection & Testing"
-
+      "actual_label": "Calibration, Inspection & Testing"
     },
     {
       "work_order_no": "2410-01-07",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Removed Intermittency from Unit. Checked All Connections and Cleaned All of Them. Found Ok.",
-      "actual_label":"Calibration, Inspection & Testing"
-
+      "actual_label": "Calibration, Inspection & Testing"
     },
     {
       "work_order_no": "2410-01-08",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Removed inttermitency from unit. checked all connections and cleaned all of them. found ok.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "2410-01-09",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Resoldered Amp. Circuit. Checked All Connections and Cleaned All of Them. Found Ok.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "2410-01-10",
@@ -2655,7 +2637,7 @@
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Switch contact cleaned. Checked wiring and amplifier.",
-      "actual_label":"Calibration, Inspection & Testing"
+      "actual_label": "Calibration, Inspection & Testing"
     },
     {
       "work_order_no": "2412-03-01",
@@ -2680,7 +2662,7 @@
       "part_info": "45-0057-1 - Official",
       "pdf_file": null,
       "actions_done": "Gearbox Repaired. MicroSwitches Adjusted. Lamp Wire Changed by New One. Unit Found Ok. All Repair Procedures Done.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "2503-22-01",
@@ -2807,7 +2789,7 @@
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Wire is disconnected. Reconnected wires. Repair procedure done. Unit tested found ok. Cleaning done.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "2509-01-03",
@@ -2820,7 +2802,7 @@
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Wires Fixed and Checked. Unit repaired. tested found ok. Cleaning done.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "2509-01-05",
@@ -2881,7 +2863,7 @@
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Microphone Repaired. Wiring Checked. Unit Tested and Checked.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "2604-15-02",
@@ -2894,7 +2876,7 @@
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Wires Fixed and Checked. Unit repaired. tested found ok. Cleaning done.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "2512-01-02",
@@ -2907,275 +2889,273 @@
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Microphone Repaired. Wiring Checked. Unit Tested and Checked.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "2512-01-01",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Microphone Repaired. Wiring Checked. Unit Tested and Checked.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "2601-01-01",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Microphone fixed. . Unit Tested and Checked.",
-      "actual_label":"Calibration, Inspection & Testing"
+      "actual_label": "Calibration, Inspection & Testing"
     },
     {
       "work_order_no": "2601-01-02",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Microphone Chenged by new one. Unit Tested and Checked.",
-      "actual_label":"Unit Replacement & Component Overhaul"
+      "actual_label": "Unit Replacement & Component Overhaul"
     },
     {
       "work_order_no": "2601-01-03",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "Amp checked. Unit clean and found ok.",
-      "actual_label":"Calibration, Inspection & Testing"
+      "actual_label": "Calibration, Inspection & Testing"
     },
     {
       "work_order_no": "2601-01-04",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "connections fixed and. board resoldered.",
-      "actual_label":"General Shop-Floor Repair"
+      "actual_label": "General Shop-Floor Repair"
     },
     {
       "work_order_no": "2601-01-05",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "PTT Switch cannibalized by another serial no. resoldered and found ok.",
-      "actual_label":"Cannibalization & Parts Harvesting"
+      "actual_label": "Cannibalization & Parts Harvesting"
     },
     {
       "work_order_no": "2601-02-01",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "all of sw checked. found ok.",
-      "actual_label":"Calibration, Inspection & Testing"
-    }
-    ,
+      "actual_label": "Calibration, Inspection & Testing"
+    },
     {
       "work_order_no": "2601-02-02",
       "part_info": "903-1342 - Official",
       "pdf_file": null,
       "actions_done": "all of sw checked. found ok.",
-      "actual_label":"Calibration, Inspection & Testing"
+      "actual_label": "Calibration, Inspection & Testing"
     },
     {
-    "work_order_no": "2602-14-01",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Microswich wire was broken. Resoldered the connection and fixed the internal housing. Unit tested ok after shop repair.",
-    "actual_label": "General Shop-Floor Repair"
-  },
-  {
-    "work_order_no": "2602-14-02",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Performed routine bench inspection on 903-1341. Cleaned contacts and adjusted the limit switch clearance. Calibration parameters within limits.",
-    "actual_label": "Calibration, Inspection & Testing"
-  },
-  {
-    "work_order_no": "2602-14-03",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Old microswitch showed severe contact wear. Changed it with a new one from stock. Overhauled the housing assembly.",
-    "actual_label": "Unit Replacement & Component Overhaul"
-  },
-  {
-    "work_order_no": "2602-14-04",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Urgent part shortage for main assembly. Cannibalized the microswitch assembly from a scrapped unit. Re-installed and found ok.",
-    "actual_label": "Cannibalization & Parts Harvesting"
-  },
-  {
-    "work_order_no": "2602-14-05",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Checked the unit due to pilot report. Found loose wire on switch. Reconnected and resoldered. Repaired housing bracket.",
-    "actual_label": "General Shop-Floor Repair"
-  },
-  {
-    "work_order_no": "2602-14-06",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Slight misalignment in limit swich lever. No physical damage. Adjsted the screw and calibrated to nominal values. Cleaned dust.",
-    "actual_label": "Calibration, Inspection & Testing"
-  },
-  {
-    "work_order_no": "2602-14-07",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Wireing harness was loose. Fixd the connection and repaird the limit swich. Tested fine on bench.",
-    "actual_label": "General Shop-Floor Repair"
-  },
-  {
-    "work_order_no": "2602-14-08",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Instpected the assembly. Cleaned all dirty contacts. Adjsted the micro switch position. Calibration ok.",
-    "actual_label": "Calibration, Inspection & Testing"
-  },
-  {
-    "work_order_no": "2602-14-09",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Unit failed continuity check. Replaced the microswitch mechanism entirely. New component installed and verified.",
-    "actual_label": "Unit Replacement & Component Overhaul"
-  },
-  {
-    "work_order_no": "2602-14-10",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Inspected part 903-1341. No discrepancies noted. Handed over to quality assurance for final clearance check.",
-    "actual_label": "Calibration, Inspection & Testing"
-  },
-  {
-    "work_order_no": "2602-14-11",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Cannibalized switch from bench stock, then repaired the mounting plate. Finally adjusted and calibrated for service.",
-    "actual_label": "Cannibalization & Parts Harvesting"
-  },
-  {
-    "work_order_no": "2602-14-12",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Contacts heavily oxidized. Resoldered internal diode and fixed the switch gating mechanism. Unit found functional.",
-    "actual_label": "General Shop-Floor Repair"
-  },
-  {
-    "work_order_no": "2602-14-13",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Routine calibration dependency. Re-adjusted tolerances and check electrical continuity. No repair needed.",
-    "actual_label": "Calibration, Inspection & Testing"
-  },
-  {
-    "work_order_no": "2602-14-14",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Microswitch completely burned out. Executed complete overhaul and change by new one from avionics shop.",
-    "actual_label": "Unit Replacement & Component Overhaul"
-  },
-  {
-    "work_order_no": "2602-14-15",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Part harvesting performed due to urgent aircraft AOG status. Removed micro-switch 903-1341 for secondary use.",
-    "actual_label": "Cannibalization & Parts Harvesting"
-  },
-  {
-    "work_order_no": "2602-14-16",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "The switch gating mechanism was slightly loose. Fixed the loose bracket, then checked performance on the test bench. Found fully operational.",
-    "actual_label": "General Shop-Floor Repair"
-  },
-  {
-    "work_order_no": "2602-14-17",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "تنظیم لیمیت سوئیچ انجام شد. کالیبراسیون با موفقیت پاس شد. No physical defects found during visual inspection.",
-    "actual_label": "Calibration, Inspection & Testing"
-  },
-  {
-    "work_order_no": "2602-14-18",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Reconected internal wiring after finding a bad solder joint. Repard the internal contact plate.",
-    "actual_label": "General Shop-Floor Repair"
-  },
-  {
-    "work_order_no": "2602-14-19",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "عملیات قطعه‌برداری روی تجهیز انجام شد. Took the microswitch assembly for aircraft tail gear. Scrapped the rest.",
-    "actual_label": "Cannibalization & Parts Harvesting"
-  },
-  {
-    "work_order_no": "2602-14-20",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "تعویض کامل میکروسوئیچ آسیب‌دیده با نمونه نو از انبار فنی. Unit operational check ok.",
-    "actual_label": "Unit Replacement & Component Overhaul"
-  },
-  {
-    "work_order_no": "2602-14-21",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Inspected the burned diode. Replaced it with a new one, resoldered connections, and calibrated the microswitch trigger point.",
-    "actual_label": "Unit Replacement & Component Overhaul"
-  },
-  {
-    "work_order_no": "2602-14-22",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Awaiting engineering disposition due to unusual structural cracks on the microswitch mounting block. Unit isolated.",
-    "actual_label": "Other Custom Technical Actions"
-  },
-  {
-    "work_order_no": "2602-14-23",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Cleand dirty contact surfaces and adjustd the limit lever gap. Over-travel test was successful.",
-    "actual_label": "Calibration, Inspection & Testing"
-  },
-  {
-    "work_order_no": "2602-14-24",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "903-1341 was reporting intermittent faults. Bench test confirmed unstable signals. Reconnected loose internal pin and resoldered the ground wire.",
-    "actual_label": "General Shop-Floor Repair"
-  },
-  {
-    "work_order_no": "2602-14-25",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Transferred the microswitch assembly to the calibration lab for extended climate and environmental testing.",
-    "actual_label": "Calibration, Inspection & Testing"
-  },
-  {
-    "work_order_no": "2602-14-26",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "سیم‌کشی داخلی قطع شده بود. مجددا لحیم کاری انجام شد و روکش حرارتی تعویض گردید. تست نهایی اوکی بود.",
-    "actual_label": "Unit Replacement & Component Overhaul"
-  },
-  {
-    "work_order_no": "2602-14-27",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Executed cannibalization from unit SN-402 to support high priority aircraft. Switch harvested and continuity test passed.",
-    "actual_label": "Cannibalization & Parts Harvesting"
-  },
-  {
-    "work_order_no": "2602-14-28",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "The micro swich housing was cracked. Fixd using epoxy compound and reinforced the mounting base plate.",
-    "actual_label": "General Shop-Floor Repair"
-  },
-  {
-    "work_order_no": "2602-14-29",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Complete unit overhaul. Change old lever with brand new sub-component. Calibrated and certified for flight.",
-    "actual_label": "Unit Replacement & Component Overhaul"
-  },
-  {
-    "work_order_no": "2602-14-30",
-    "part_info": "903-1341 - MicroSwitch Assy",
-    "pdf_file": null,
-    "actions_done": "Periodic scheduled inspection. Washed assembly with contact cleaner. No adjustment or repair was required.",
-    "actual_label": "Calibration, Inspection & Testing"
-  }
-]
+      "work_order_no": "2602-14-01",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Microswich wire was broken. Resoldered the connection and fixed the internal housing. Unit tested ok after shop repair.",
+      "actual_label": "General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "2602-14-02",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Performed routine bench inspection on 903-1341. Cleaned contacts and adjusted the limit switch clearance. Calibration parameters within limits.",
+      "actual_label": "Calibration, Inspection & Testing"
+    },
+    {
+      "work_order_no": "2602-14-03",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Old microswitch showed severe contact wear. Changed it with a new one from stock. Overhauled the housing assembly.",
+      "actual_label": "Unit Replacement & Component Overhaul"
+    },
+    {
+      "work_order_no": "2602-14-04",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Urgent part shortage for main assembly. Cannibalized the microswitch assembly from a scrapped unit. Re-installed and found ok.",
+      "actual_label": "Cannibalization & Parts Harvesting"
+    },
+    {
+      "work_order_no": "2602-14-05",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Checked the unit due to pilot report. Found loose wire on switch. Reconnected and resoldered. Repaired housing bracket.",
+      "actual_label": "General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "2602-14-06",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Slight misalignment in limit swich lever. No physical damage. Adjsted the screw and calibrated to nominal values. Cleaned dust.",
+      "actual_label": "Calibration, Inspection & Testing"
+    },
+    {
+      "work_order_no": "2602-14-07",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Wireing harness was loose. Fixd the connection and repaird the limit swich. Tested fine on bench.",
+      "actual_label": "General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "2602-14-08",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Instpected the assembly. Cleaned all dirty contacts. Adjsted the micro switch position. Calibration ok.",
+      "actual_label": "Calibration, Inspection & Testing"
+    },
+    {
+      "work_order_no": "2602-14-09",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Unit failed continuity check. Replaced the microswitch mechanism entirely. New component installed and verified.",
+      "actual_label": "Unit Replacement & Component Overhaul"
+    },
+    {
+      "work_order_no": "2602-14-10",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Inspected part 903-1341. No discrepancies noted. Handed over to quality assurance for final clearance check.",
+      "actual_label": "Calibration, Inspection & Testing"
+    },
+    {
+      "work_order_no": "2602-14-11",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Cannibalized switch from bench stock, then repaired the mounting plate. Finally adjusted and calibrated for service.",
+      "actual_label": "Cannibalization & Parts Harvesting"
+    },
+    {
+      "work_order_no": "2602-14-12",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Contacts heavily oxidized. Resoldered internal diode and fixed the switch gating mechanism. Unit found functional.",
+      "actual_label": "General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "2602-14-13",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Routine calibration dependency. Re-adjusted tolerances and check electrical continuity. No repair needed.",
+      "actual_label": "Calibration, Inspection & Testing"
+    },
+    {
+      "work_order_no": "2602-14-14",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Microswitch completely burned out. Executed complete overhaul and change by new one from avionics shop.",
+      "actual_label": "Unit Replacement & Component Overhaul"
+    },
+    {
+      "work_order_no": "2602-14-15",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Part harvesting performed due to urgent aircraft AOG status. Removed micro-switch 903-1341 for secondary use.",
+      "actual_label": "Cannibalization & Parts Harvesting"
+    },
+    {
+      "work_order_no": "2602-14-16",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "The switch gating mechanism was slightly loose. Fixed the loose bracket, then checked performance on the test bench. Found fully operational.",
+      "actual_label": "General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "2602-14-17",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "تنظیم لیمیت سوئیچ انجام شد. کالیبراسیون با موفقیت پاس شد. No physical defects found during visual inspection.",
+      "actual_label": "Calibration, Inspection & Testing"
+    },
+    {
+      "work_order_no": "2602-14-18",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Reconected internal wiring after finding a bad solder joint. Repard the internal contact plate.",
+      "actual_label": "General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "2602-14-19",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "عملیات قطعه‌برداری روی تجهیز انجام شد. Took the microswitch assembly for aircraft tail gear. Scrapped the rest.",
+      "actual_label": "Cannibalization & Parts Harvesting"
+    },
+    {
+      "work_order_no": "2602-14-20",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "تعویض کامل میکروسوئیچ آسیب‌دیده با نمونه نو از انبار فنی. Unit operational check ok.",
+      "actual_label": "Unit Replacement & Component Overhaul"
+    },
+    {
+      "work_order_no": "2602-14-21",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Inspected the burned diode. Replaced it with a new one, resoldered connections, and calibrated the microswitch trigger point.",
+      "actual_label": "Unit Replacement & Component Overhaul"
+    },
+    {
+      "work_order_no": "2602-14-22",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Awaiting engineering disposition due to unusual structural cracks on the microswitch mounting block. Unit isolated.",
+      "actual_label": "Other Custom Technical Actions"
+    },
+    {
+      "work_order_no": "2602-14-23",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Cleand dirty contact surfaces and adjustd the limit lever gap. Over-travel test was successful.",
+      "actual_label": "Calibration, Inspection & Testing"
+    },
+    {
+      "work_order_no": "2602-14-24",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "903-1341 was reporting intermittent faults. Bench test confirmed unstable signals. Reconnected loose internal pin and resoldered the ground wire.",
+      "actual_label": "General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "2602-14-25",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Transferred the microswitch assembly to the calibration lab for extended climate and environmental testing.",
+      "actual_label": "Calibration, Inspection & Testing"
+    },
+    {
+      "work_order_no": "2602-14-26",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "سیم‌کشی داخلی قطع شده بود. مجددا لحیم کاری انجام شد و روکش حرارتی تعویض گردید. تست نهایی اوکی بود.",
+      "actual_label": "Unit Replacement & Component Overhaul"
+    },
+    {
+      "work_order_no": "2602-14-27",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Executed cannibalization from unit SN-402 to support high priority aircraft. Switch harvested and continuity test passed.",
+      "actual_label": "Cannibalization & Parts Harvesting"
+    },
+    {
+      "work_order_no": "2602-14-28",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "The micro swich housing was cracked. Fixd using epoxy compound and reinforced the mounting base plate.",
+      "actual_label": "General Shop-Floor Repair"
+    },
+    {
+      "work_order_no": "2602-14-29",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Complete unit overhaul. Change old lever with brand new sub-component. Calibrated and certified for flight.",
+      "actual_label": "Unit Replacement & Component Overhaul"
+    },
+    {
+      "work_order_no": "2602-14-30",
+      "part_info": "903-1341 - MicroSwitch Assy",
+      "pdf_file": null,
+      "actions_done": "Periodic scheduled inspection. Washed assembly with contact cleaner. No adjustment or repair was required.",
+      "actual_label": "Calibration, Inspection & Testing"
+    }
+  ]
 }
->>>>>>> 54d7652 (Update README and add Offline_Portal analytical module)
