@@ -20,7 +20,7 @@ def inject_typo(word, prob=0.3):
     return "".join(word_list)
 dataset_size = 1000
 raw_data = [random.choice(standard_parts) for _ in range(dataset_size)]
-noisy_data = [inject_typo(item, prob=0.2) for item in raw_data] # با احتمال ۲۰٪ خطا وارد کن
+noisy_data = [inject_typo(item, prob=0.2) for item in raw_data] 
 total_correct = 0
 for i in range(dataset_size):
     original = raw_data[i]
