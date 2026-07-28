@@ -102,7 +102,7 @@ Access at: http://127.0.0.1:8000/
 
 🔑 Demo Credentials (For Peer Review)
 Admin URL: http://127.0.0.1:8000/admin/
-
+> **💡 Pro Tip:** To avoid browser caching issues (especially after updating `data.json`) and to prevent browser extensions from interfering with Streamlit scripts, it is recommended to open the app in an **Incognito / Private Browsing Window**.
 Username: demo-admin
 
 Password: mroadmin
