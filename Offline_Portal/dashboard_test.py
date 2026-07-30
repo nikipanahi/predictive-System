@@ -162,4 +162,4 @@ if not df.empty:
             display_df = matched_df[['affected_sub_parts', 'actions_done', 'standardized_action']].rename(
                 columns={'affected_sub_parts': 'Affected Sub-Component', 'actions_done': 'Raw Log Text', 'standardized_action': 'Model Classification'}
             )
-            st.dataframe(display_df, use_container_width=True)
+            st.dataframe(display_df, width='stretch')
