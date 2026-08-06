@@ -1,3 +1,5 @@
+Copyright (c) 2024 Niki Panahi & Mehdi Rahmati. All Rights Reserved.
+This repository is provided solely for academic review and demonstration purposes related to our IEEE publication. Any commercial use, reproduction, modification, or distribution of this code without explicit written permission from the authors is strictly prohibited.
 # ✈️ Aviation MRO Inventory & Smart Predictive Maintenance System
 
 This repository contains the source code for the Django-based MRO (Maintenance, Repair, and Overhaul) inventory management system and its companion offline analytical portal, strictly aligned with academic and IEEE standards.
